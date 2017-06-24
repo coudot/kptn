@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="KPTN, auteur, compositeur, interprète en Creative Commons">
+    <meta name="keywords" content="musique,guitare,auteur,compositeur,interprète">
+    <meta name="author" content="Clément OUDOT">
+
+    <!-- tmpl_if name='title' -->
+    <title>KPTN - <!-- tmpl_var name='title' escape='html' --></title>
+    <!-- tmpl_else -->
+    <title>KPTN</title>
+    <!-- /tmpl_if -->
+
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- FontAwesome CSS -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/kptn.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+  <div id="wrap">
+
+    <!-- tmpl_var name='content' -->
+
+  </div>
+
+  <div id="footer" class="text-center">
+        <a class="btn btn-default" href="https://www.facebook.com/kptnfrance/"><i class="fa fa-facebook"></i><span class="hidden-xs"> Facebook</span></a>
+        <a class="btn btn-default" href="https://soundcloud.com/k_p_t_n"><i class="fa fa-soundcloud"></i><span class="hidden-xs"> SoundCloud</span></a>
+        <a class="btn btn-default" href="https://www.jamendo.com/artist/463782/kptn"><i class="fa fa-music"></i><span class="hidden-xs"> Jamendo</span></a>
+  </div>
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="js/jquery-1.10.2.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+  </body>
+
+</html>
