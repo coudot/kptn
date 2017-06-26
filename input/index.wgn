@@ -1,3 +1,16 @@
 title: Accueil
 ----
 
+<img src="images/logo_kptn.png" class="img-responsive center-block" alt="KPTN" />
+
+<h2><i class="fa fa-microphone"></i> Chanson française mais amusante</h2>
+
+<p>Vous trouverez ici de la chanson française, de la musique avec des inspirations pop, jazz et blues et des textes qu'on ne retrouvera pas dans les manuels scolaires.</p>
+
+<p>Lisez la <a href="bio.html">biographie</a> ou découvrez directement <a href="chansons.html">les chansons</a>.</p>
+
+<h2><i class="fa fa-creative-commons"></i> Art libre</h2>
+
+<p>Musique et paroles sont libres, sous licence CC-BY-SA, ce qui signifie que vous pouvez télécharger, partager, même modifier librement ces chansons. Vous devez simplement citer l'auteur et partager dans les mêmes conditions</p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
