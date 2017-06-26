@@ -1,0 +1,76 @@
+title: Drunk Blues
+link: chanson-drunkblues.html
+soundcloud: https://soundcloud.com/k_p_t_n/drunk-blues
+jamendo: https://www.jamendo.com/track/1205886/drunk-blues
+----
+
+<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<blockquote>
+<p>
+L'air du matin<br />
+N'était pas très frais<br />
+Pas très serein<br />
+Voire carrément mauvais.<br />
+</p>
+
+<p>
+Le réveil débranché,<br />
+C'était un mauvais signe.<br />
+Essayer de se lever<br />
+A défaut d'être digne.<br />
+</p>
+
+<p>
+La soirée passée<br />
+Avait bien commencé,<br />
+Des amis plein les bras<br />
+Et une robe de soirée.<br />
+</p>
+
+<p>
+Puis des bouteilles vidées<br />
+Et des souvenirs troublés.<br />
+Elle ne savait plus comment<br />
+Cela c'était terminé.<br />
+</p>
+
+<p>
+    Elle vit toujours seule<br />
+    La nuit comme la journée.<br />
+    Elle fait parfois la gueule<br />
+    Et elle boit pour oublier. (bis)<br />
+</p>
+
+<p>
+La tête comme une enclume<br />
+Les pieds frigorifiés<br />
+Un cachet d'aspirine<br />
+Dans sa tasse de café.<br />
+</p>
+
+<p>
+Elle n'était pas très fière<br />
+D'être dans cet état.<br />
+Elle avait dit hier<br />
+Je ne ferai plus jamais ça !<br />
+</p>
+
+<p>
+Mais voilà, c'est comme ça,<br />
+Elle a recommencé.<br />
+Quelques verres ont suffi<br />
+À la faire replonger.<br />
+</p>
+
+<p>
+La question qu'elle se pose<br />
+C'est comment renoncer,<br />
+Éviter l'overdose,<br />
+Être enfin libérée.<br />
+</p>
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
+</blockquote>
+
+<!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-default"><i class="fa fa-soundcloud"></i> Écouter sur SoundCloud</a><!-- /tmpl_if -->
+<!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-default"><i class="fa fa-music"></i> Écouter sur Jamendo</a><!-- /tmpl_if -->
