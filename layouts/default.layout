@@ -29,7 +29,13 @@
 
   <div id="wrap">
 
+    <div class="container">
+
+    <!-- tmpl_include name="menu.inc"-->
+
     <!-- tmpl_var name='content' -->
+
+    </div>
 
   </div>
 
