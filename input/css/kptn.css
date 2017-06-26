@@ -7,13 +7,21 @@ body {
   height: 100%;
   background: url("../images/kptn_background.jpg") no-repeat center fixed;
   background-size: cover;
-  font-size: 12pt;
+  font-size: 1.1em;
   padding-top:10px;
 }
 
 a, a:hover {
   text-decoration: none;
   color: #32728a;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.6em;
 }
 
 div.navbar-default, div.panel {
