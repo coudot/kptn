@@ -1,0 +1,18 @@
+title: Chansons
+chansons: file_glob("chanson-*.wgn")
+----
+
+<h1 class="text-center">Chansons</h1>
+
+<!-- tmpl_if name="chansons" -->
+<ul>
+    <!-- tmpl_loop name="chansons" -->
+        <li>
+            <a href="<!-- tmpl_var name="link" -->"><!-- tmpl_var name="title" --></a>
+            <!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-xs btn-default"><i class="fa fa-soundcloud"></i></a><!-- /tmpl_if -->
+            <!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-xs btn-default"><i class="fa fa-music"></i></a><!-- /tmpl_if -->
+        </li>
+    <!-- /tmpl_loop -->
+</ul>
+<!-- /tmpl_if -->
+
