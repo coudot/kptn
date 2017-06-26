@@ -16,6 +16,11 @@ a, a:hover {
   color: #32728a;
 }
 
+div.navbar-default, div.panel {
+  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.9);
+}
+
 /* Override bootstrap styles */
 .btn {
   white-space: normal;
