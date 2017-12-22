@@ -2,6 +2,7 @@ title: Drunk Blues
 link: chanson-drunkblues.html
 soundcloud: https://soundcloud.com/k_p_t_n/drunk-blues
 jamendo: https://www.jamendo.com/track/1205886/drunk-blues
+dogmazic: http://play.dogmazic.net/browse.php?action=artist#song.php?action=show_song&song_id=58405
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
@@ -74,3 +75,4 @@ C'est comment renoncer,<br />
 
 <!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-default"><i class="fa fa-soundcloud"></i> Écouter sur SoundCloud</a><!-- /tmpl_if -->
 <!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-default"><i class="fa fa-music"></i> Écouter sur Jamendo</a><!-- /tmpl_if -->
+<!-- tmpl_if name="dogmazic" --><a href="<!-- tmpl_var name="dogmazic" -->" alt="Écouter sur Dogmazic" class="btn btn-default"><i class="fa fa-headphones"></i> Écouter sur Dogmazic</a><!-- /tmpl_if -->

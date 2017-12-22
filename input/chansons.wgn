@@ -11,6 +11,7 @@ chansons: file_glob("chanson-*.wgn")
             <a href="<!-- tmpl_var name="link" -->"><!-- tmpl_var name="title" --></a>
             <!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-xs btn-default"><i class="fa fa-soundcloud"></i></a><!-- /tmpl_if -->
             <!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-xs btn-default"><i class="fa fa-music"></i></a><!-- /tmpl_if -->
+            <!-- tmpl_if name="dogmazic" --><a href="<!-- tmpl_var name="dogmazic" -->" alt="Écouter sur Dogmazic" class="btn btn-xs btn-default"><i class="fa fa-headphones"></i></a><!-- /tmpl_if -->
         </li>
     <!-- /tmpl_loop -->
 </ul>
