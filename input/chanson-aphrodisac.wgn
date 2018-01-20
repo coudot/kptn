@@ -1,5 +1,6 @@
 title: Aphrodisac
 link: chanson-aphrodisac.html
+logo: images/logo_aphrodisac.png
 soundcloud: https://soundcloud.com/k_p_t_n/aphrodisac
 jamendo: https://www.jamendo.com/track/1506780/aphrodisac
 dogmazic: http://play.dogmazic.net/song.php?action=show_song&song_id=58770
@@ -7,6 +8,9 @@ youtube: https://www.youtube.com/watch?v=81nVKf0p9ro
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<div class="row">
+<div class="col-md-6">
 
 <blockquote>
 <p>
@@ -67,6 +71,12 @@ Aphrodisac<br />
 </p>
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
+
+</div>
+<div class="col-md-6">
+<img src="<!-- tmpl_var name="logo" -->" class="img-responsive center-block" />
+</div>
+</div>
 
 <!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-default"><i class="fa fa-soundcloud"></i> Écouter sur SoundCloud</a><!-- /tmpl_if -->
 <!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-default"><i class="fa fa-music"></i> Écouter sur Jamendo</a><!-- /tmpl_if -->
