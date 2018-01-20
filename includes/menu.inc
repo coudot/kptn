@@ -15,6 +15,15 @@
               <ul class="nav navbar-nav">
                 <li><a href="bio.html"><i class="fa fa-user-circle-o"></i> Biographie</a></li>
                 <li><a href="chansons.html"><i class="fa fa-music"></i> Chansons</a></li>
+		<li class="dropdown">
+		  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-share-alt"></i> Partager <span class="caret"></span></a>
+		  <ul class="dropdown-menu" role="menu">
+                <li><a href="https://www.facebook.com/kptnfrance" title="Facebook"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span> Facebook</a></li>
+                <li><a href="https://soundcloud.com/k_p_t_n" title="SoundCloud"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-soundcloud fa-stack-1x fa-inverse"></i></span> SoundCloud</a></li>
+                <li><a href="https://www.jamendo.com/artist/463782/kptn" title="Jamendo"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-music fa-stack-1x fa-inverse"></i></span> Jamendo</a></li>
+                <li><a href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703" title="Dogmazic"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-headphones fa-stack-1x fa-inverse"></i></span> Dogmazic</a></li>
+		</ul>
+		</li>
               </ul>
             </div>
           </div>
