@@ -1,0 +1,48 @@
+title: Y'a pas
+link: album-flammes-01-yapas.html
+----
+
+<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<blockquote>
+<p>
+Y'a des jours comme ça.<br />
+Des jours où ça va pas.<br />
+Une copine qui se fait la malle<br />
+Plus de poisson dans le bocal,<br />
+Des jours où tout va mal.<br />
+</p>
+<p>
+Y'a des jours ça tourne plus rond.<br />
+Où t'es le dernier des cons.<br />
+Y'a plus rien dans le frigo,<br />
+Plus de Miko dans le congélo,<br />
+Et pour finir, t'as plus de boulot.<br />
+</p>
+<p>
+Alors t'as plus envie de vivre,<br />
+Tu veux plus mourir vieux.<br />
+Tu veux vraiment en finir<br />
+Avec ta vie de malheureux.<br />
+Oui, mais t'es con parce que :<br />
+</p>
+<p>
+Y'a pas d'autre vie après celle-là<br />
+Y'a pas de clubs Med au nirvana<br />
+Y'a pas de morts pour témoigner<br />
+Que le suicide ça soulageait<br />
+Y'a pas que des salauds sur Terre<br />
+Y'en a peut-être aussi en enfer<br />
+Y'a pas de quoi se faire du mal<br />
+Y'a pas de quoi se mettre une balle<br />
+Y'a pas de larmes qui durent<br />
+Y'a que les traces de l'usure<br />
+Y'a pas de remède pour ta connerie<br />
+Mais y'a peut-être une chance de sauver ta vie !<br />
+</p>
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
+</blockquote>
+
+<!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-default"><i class="fa fa-soundcloud"></i> Écouter sur SoundCloud</a><!-- /tmpl_if -->
+<!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-default"><i class="fa fa-music"></i> Écouter sur Jamendo</a><!-- /tmpl_if -->
+<!-- tmpl_if name="dogmazic" --><a href="<!-- tmpl_var name="dogmazic" -->" alt="Écouter sur Dogmazic" class="btn btn-default"><i class="fa fa-headphones"></i> Écouter sur Dogmazic</a><!-- /tmpl_if -->

@@ -1,20 +1,37 @@
 title: Chansons
-chansons: file_glob("chanson-*.wgn")
+album_flammes: file_glob("album-flammes-*.wgn")
+album_caverne: file_glob("album-caverne-*.wgn")
 ----
 
 <h1 class="text-center">Chansons</h1>
 
-<!-- tmpl_if name="chansons" -->
-<ul>
-    <!-- tmpl_loop name="chansons" -->
+<div class="row">
+  <div class="col-md-6">
+    <img src="images/kptn_flammes_cover_640px.png" class="img-responsive img-thumbnail cover" alt="Flammes" />
+  </div>
+  <div class="col-md-6">
+    <h2>Flammes (2018)</h2>
+      <ol>
+        <!-- tmpl_loop name="album_flammes" -->
         <li>
             <a href="<!-- tmpl_var name="link" -->"><!-- tmpl_var name="title" --></a>
-            <!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-xs btn-default"><i class="fa fa-soundcloud"></i></a><!-- /tmpl_if -->
-            <!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-xs btn-default"><i class="fa fa-music"></i></a><!-- /tmpl_if -->
-            <!-- tmpl_if name="dogmazic" --><a href="<!-- tmpl_var name="dogmazic" -->" alt="Écouter sur Dogmazic" class="btn btn-xs btn-default"><i class="fa fa-headphones"></i></a><!-- /tmpl_if -->
-            <!-- tmpl_if name="youtube" --><a href="<!-- tmpl_var name="youtube" -->" alt="Écouter sur Youtube" class="btn btn-xs btn-default"><i class="fa fa-youtube"></i></a><!-- /tmpl_if -->
         </li>
-    <!-- /tmpl_loop -->
-</ul>
-<!-- /tmpl_if -->
-
+        <!-- /tmpl_loop -->
+    </ol>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6">
+    <img src="images/kptn_caverne_cover_640px.png" class="img-responsive img-thumbnail cover" alt="Caverne" />
+  </div>
+  <div class="col-md-6">
+    <h2>Caverne (2000)</h2>
+      <ol>
+        <!-- tmpl_loop name="album_caverne" -->
+        <li>
+            <a href="<!-- tmpl_var name="link" -->"><!-- tmpl_var name="title" --></a>
+        </li>
+        <!-- /tmpl_loop -->
+    </ol>
+  </div>
+</div>
