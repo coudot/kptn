@@ -4,6 +4,8 @@ link: album-flammes-04-passagere.html
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
+<!-- tmpl_include name="chanson_head.inc"-->
+
 <blockquote>
 <p>
 On a tous un peu l'air<br />
@@ -62,3 +64,4 @@ Passagère<br />
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
 
+<!-- tmpl_include name="chanson_foot.inc"-->

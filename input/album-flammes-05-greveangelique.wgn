@@ -4,6 +4,8 @@ link: album-flammes-05-greveangelique.html
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
+<!-- tmpl_include name="chanson_head.inc"-->
+
 <blockquote>
 <p>
 Perchés sur leur nuage<br />
@@ -77,3 +79,4 @@ Les anges partirent déchus<br />
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
 
+<!-- tmpl_include name="chanson_foot.inc"-->

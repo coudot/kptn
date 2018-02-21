@@ -4,6 +4,8 @@ link: album-flammes-10-irresistant.html
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
+<!-- tmpl_include name="chanson_head.inc"-->
+
 <blockquote>
 <p>
 On gagne, on perd<br />
@@ -82,3 +84,4 @@ D'une dernière danse<br />
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
 
+<!-- tmpl_include name="chanson_foot.inc"-->

@@ -4,6 +4,8 @@ link: album-flammes-09-museeaircontemporain.html
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
+<!-- tmpl_include name="chanson_head.inc"-->
+
 <blockquote>
 <p>
 C'était l'hiver<br />
@@ -79,3 +81,4 @@ Et puis moi je trouvais ça chouette<br />
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
 
+<!-- tmpl_include name="chanson_foot.inc"-->

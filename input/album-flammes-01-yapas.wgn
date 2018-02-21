@@ -1,8 +1,11 @@
 title: Y'a pas
 link: album-flammes-01-yapas.html
+logo: images/kptn_yapas_cover_640px.png
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<!-- tmpl_include name="chanson_head.inc"-->
 
 <blockquote>
 <p>
@@ -43,6 +46,4 @@ Mais y'a peut-être une chance de sauver ta vie !<br />
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
 
-<!-- tmpl_if name="soundcloud" --><a href="<!-- tmpl_var name="soundcloud" -->" alt="Écouter sur SoundCloud" class="btn btn-default"><i class="fa fa-soundcloud"></i> Écouter sur SoundCloud</a><!-- /tmpl_if -->
-<!-- tmpl_if name="jamendo" --><a href="<!-- tmpl_var name="jamendo" -->" alt="Écouter sur Jamendo" class="btn btn-default"><i class="fa fa-music"></i> Écouter sur Jamendo</a><!-- /tmpl_if -->
-<!-- tmpl_if name="dogmazic" --><a href="<!-- tmpl_var name="dogmazic" -->" alt="Écouter sur Dogmazic" class="btn btn-default"><i class="fa fa-headphones"></i> Écouter sur Dogmazic</a><!-- /tmpl_if -->
+<!-- tmpl_include name="chanson_foot.inc"-->

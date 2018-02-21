@@ -1,8 +1,11 @@
 title: Tout à gagner
 link: album-flammes-02-toutagagner.html
+logo: images/kptn_toutagagner_cover_640px.png
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<!-- tmpl_include name="chanson_head.inc"-->
 
 <blockquote>
 <p>
@@ -15,7 +18,7 @@ Pas le moindre petit pourboire<br />
 <p>
 Je suis de la race des profiteurs<br />
 D'une mère cantile fier successeur<br />
-Qui a fait de moi au homme d'actions<br />
+Qui a fait de moi un homme d'actions<br />
 Négociées à la sueur de mes fonds<br />
 </p>
 
@@ -69,4 +72,6 @@ Je crois bien qu'il a tout à gagner<br />
 </p>
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
 

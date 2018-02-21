@@ -4,6 +4,10 @@ link: album-flammes-06-machansondamour.html
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<p><i>Pour Ludivine</i></p>
+
 <blockquote>
 <p>
 J'aurais aimé<br />

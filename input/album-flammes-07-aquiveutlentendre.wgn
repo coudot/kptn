@@ -4,6 +4,8 @@ link: album-flammes-07-aquiveutlentendre.html
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
+<!-- tmpl_include name="chanson_head.inc"-->
+
 <blockquote>
 <p>
 Bercés par des sonnets dès que l'on naît<br />
@@ -59,3 +61,4 @@ Moi je donne raison<br />
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
 
+<!-- tmpl_include name="chanson_foot.inc"-->

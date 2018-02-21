@@ -1,8 +1,11 @@
 title: Drunk Blues
 link: album-flammes-08-drunkblues.html
+logo: images/kptn_drunkblues_cover_640px.png
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<!-- tmpl_include name="chanson_head.inc"-->
 
 <blockquote>
 <p>
@@ -69,3 +72,5 @@ C'est comment renoncer,<br />
 </p>
 <footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
 </blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
