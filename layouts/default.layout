@@ -16,12 +16,16 @@
 
     <meta property="og:title" content="KPTN - <!-- tmpl_var name='title' escape='html' -->" />
     <meta property="og:type" content="website" />
-    <!-- tmpl_if name='logo' -->
-    <meta property="og:image" content="http://kptn.oodo.net/<!-- tmpl_var name='logo' -->" />
+    <!-- tmpl_if name='og_image' -->
+    <meta property="og:image" content="http://kptn.oodo.net/<!-- tmpl_var name='og_image' -->" />
     <!-- tmpl_else -->
     <meta property="og:image" content="http://kptn.oodo.net/images/kptn_opengraph.png" />
     <!-- /tmpl_if -->
+    <!-- tmpl_if name='og_description' -->
+    <meta property="og:description" content="<!-- tmpl_var name='og_description' -->" />
+    <!-- tmpl_else -->
     <meta property="og:description" content="KPTN, auteur, compositeur, interprète en Creative Commons" />
+    <!-- /tmpl_if -->
 
     <!-- Bootstrap CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
