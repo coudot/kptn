@@ -4,6 +4,8 @@ og_image: images/kptn_toutagagner_cover_320px.png
 og_description: Découvrez la chanson Tout à gagner (album Flammes)
 logo: images/kptn_toutagagner_cover_640px.png
 download: download/flammes/2 - Tout a gagner.mp3
+soundcloud: https://soundcloud.com/k_p_t_n/tout-a-gagner
+jamendo: https://www.jamendo.com/track/1531887/tout-a-gagner
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
