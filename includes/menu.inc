@@ -23,6 +23,7 @@
                 <li><a href="https://www.jamendo.com/artist/463782/kptn" title="Jamendo"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-music fa-stack-1x fa-inverse"></i></span> Jamendo</a></li>
                 <li><a href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703" title="Dogmazic"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-headphones fa-stack-1x fa-inverse"></i></span> Dogmazic</a></li>
                 <li><a href="https://framalibre.org/content/kptn" title="Framalibre"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-book fa-stack-1x fa-inverse"></i></span> Framalibre</a></li>
+                <li><a href="https://liberapay.com/KPTN/" title="Liberapay"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-money fa-stack-1x fa-inverse"></i></span> Liberapay</a></li>
 		</ul>
 		</li>
               </ul>
