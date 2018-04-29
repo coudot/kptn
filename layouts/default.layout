@@ -8,6 +8,8 @@
     <meta name="keywords" content="musique,guitare,auteur,compositeur,interprète">
     <meta name="author" content="Clément OUDOT">
 
+    <link rel="icon" type="image/png" href="/favicon.png">
+
     <!-- tmpl_if name='title' -->
     <title>KPTN - <!-- tmpl_var name='title' escape='html' --></title>
     <!-- tmpl_else -->
