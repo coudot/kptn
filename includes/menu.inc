@@ -24,6 +24,7 @@
                 <li><a href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703" title="Dogmazic"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-dogmazic fa-stack-1x fa-inverse"></i></span> Dogmazic</a></li>
                 <li><a href="https://framalibre.org/content/kptn" title="Framalibre"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-book fa-stack-1x fa-inverse"></i></span> Framalibre</a></li>
                 <li><a href="https://liberapay.com/KPTN/" title="Liberapay"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-liberapay fa-stack-1x fa-inverse"></i></span> Liberapay</a></li>
+                <li><a href="https://musicbrainz.org/artist/0ac3884e-99f0-4022-8f21-6c76e2f78486" title="MusicBrainz"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-star fa-stack-1x fa-inverse"></i></span> MusicBrainz</a></li>
 		</ul>
 		</li>
               </ul>
