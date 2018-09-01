@@ -1,0 +1,95 @@
+title: (su)père
+link: album-flammes-11-supere.html
+og_image: images/kptn_flammes_cover_320px.png
+og_description: Découvrez la chanson (su)père (album Flammes)
+----
+
+<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<p><i>Pour Claire et Lucille</i></p>
+
+<blockquote>
+<p>
+Conquis par ton premier sourire<br />
+Bercé par tes fous rires<br />
+Que j’aurai sûrement provoqués<br />
+De tous les papas de la Terre<br />
+Je serai le plus fier<br />
+<br />
+Dans les histoires, les contes de fées<br />
+Que je te raconterai<br />
+Pour que tu t’endormes le soir<br />
+Je te protégerai des sorcières<br />
+Du diable et des enfers<br />
+<br />
+Je serai ton repère<br />
+Phare au milieu des mers<br />
+Une douce lumière<br />
+Je serai j’espère<br />
+Je serai ce père<br />
+Super<br />
+<br />
+Passeront les jours, les années<br />
+Et tu auras changé<br />
+Sans que j’ai pu le remarquer<br />
+Comme tous les papas de la Terre<br />
+Je serai tête en l’air<br />
+<br />
+Tu me cacheras tes doutes, tes peurs<br />
+Tu commettras des erreurs<br />
+Et je ne pourrai rien y faire<br />
+Tu balayeras mes conseils d’un revers<br />
+Tu feras tout le contraire<br />
+<br />
+Sans excès sans colère<br />
+Ni ami ni amer<br />
+Parfois un peu sévère<br />
+Je serai j’espère<br />
+Je serai ce père<br />
+Super<br />
+<br />
+Quand tu ne seras plus célibataire<br />
+Que tu auras rencontré<br />
+Mon plus parfait opposé<br />
+Avec tous les papas de la Terre<br />
+Je resterai en arrière<br />
+<br />
+Tu réussiras ta carrière<br />
+Tu auras fort à faire<br />
+Et seras bien trop occupée<br />
+Pour rendre visite à ton vieux père<br />
+Dans son lointain désert<br />
+<br />
+Solide et solitaire<br />
+Un peu moins fort qu’hier<br />
+Mais toujours prêt à te plaire<br />
+Je serai j’espère<br />
+Je serai ce père<br />
+Super<br />
+<br />
+Quand s’achèvera mon hiver<br />
+Que je ne verrai plus clair<br />
+Je rendrai mon dernier souffle d’aire<br />
+Comme tous les papas, sous la terre<br />
+Je retournerai poussière<br />
+<br />
+Dans mon voyage imaginaire<br />
+Entouré de chimères<br />
+Tu seras là dans mes pensées<br />
+Je ne ferai plus l’erreur de me taire<br />
+Enfin je te le dirai<br />
+<br />
+Que l’amour est un mystère<br />
+Que la vie est éphémère<br />
+Que j’ai toujours été sincère<br />
+Que j’ai été j’espère<br />
+Que j’ai été ce père<br />
+Super<br />
+</p>
+
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
