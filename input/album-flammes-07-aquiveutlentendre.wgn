@@ -4,6 +4,7 @@ og_image: images/kptn_aquiveutlentendre_cover_320px.png
 og_description: Découvrez la chanson À qui veut l'entendre (album Flammes)
 logo: images/kptn_aquiveutlentendre_cover_640px.png
 download: download/flammes/7 - A qui veut l entendre.mp3
+soundcloud: https://soundcloud.com/k_p_t_n/a-qui-veut-lentendre
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
