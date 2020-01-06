@@ -22,9 +22,9 @@ album_caverne: file_glob("album-caverne-*.wgn")
       <ol>
         <!-- tmpl_loop name="album_flammes" -->
         <li>
-            <a href="<!-- tmpl_var name="link" -->" <!-- tmpl_if name="logo" -->data-toggle="popover" title="<!-- tmpl_var name="title" -->" data-content="<img src='<!-- tmpl_var name="logo" -->' class='img-responsive img-thumbnail cover' />"<!-- /tmpl_if -->><!-- tmpl_var name="title" --></a>
+            <a href="<!-- tmpl_var name="link" -->" title="Découvrir les paroles de <!-- tmpl_var name="title" -->"><!-- tmpl_var name="title" --></a>
             <!-- tmpl_if name="download" -->
-            <a href="<!-- tmpl_var name="download" -->" title="Télécharger" class="badge"><i class="fa fa-download"></i></a>
+            <a title="Écouter" class="badge" data-toggle="popover" data-content='<!-- tmpl_if name="logo" --><img src="<!-- tmpl_var name="logo" -->" class="img-responsive img-thumbnail cover" /><!-- /tmpl_if --><audio src="<!-- tmpl_var name="download" -->" controls></audio>'><i class="fa fa-play"></i></a>
             <!-- /tmpl_if -->
         </li>
         <!-- /tmpl_loop -->
@@ -49,9 +49,9 @@ album_caverne: file_glob("album-caverne-*.wgn")
       <ol>
         <!-- tmpl_loop name="album_caverne" -->
         <li>
-            <a href="<!-- tmpl_var name="link" -->" <!-- tmpl_if name="logo" -->data-toggle="popover" title="<!-- tmpl_var name="title" -->" data-content="<img src='<!-- tmpl_var name="logo" -->' class='img-responsive img-thumbnail cover' />"<!-- /tmpl_if -->><!-- tmpl_var name="title" --></a>
+            <a href="<!-- tmpl_var name="link" -->" title="Découvrir les paroles de <!-- tmpl_var name="title" -->"><!-- tmpl_var name="title" --></a>
             <!-- tmpl_if name="download" -->
-            <a href="<!-- tmpl_var name="download" -->" title="Télécharger" class="badge"><i class="fa fa-download"></i></a>
+            <a title="Écouter" class="badge" data-toggle="popover" data-content='<!-- tmpl_if name="logo" --><img src="<!-- tmpl_var name="logo" -->" class="img-responsive img-thumbnail cover" /><!-- /tmpl_if --><audio src="<!-- tmpl_var name="download" -->" controls></audio>'><i class="fa fa-play"></i></a>
             <!-- /tmpl_if -->
         </li>
         <!-- /tmpl_loop -->
