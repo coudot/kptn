@@ -1,0 +1,60 @@
+title: À toi de jouer
+link: album-flammes-11-atoidejouer.html
+og_image: images/kptn_atoidejouer_cover_320px.png
+og_description: Découvrez la chanson À toi de jouer (album Flammes)
+logo: images/kptn_atoidejouer_cover_640px.png
+----
+
+<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<p><i>Chanson écrite pour le groupe <a href="https://www.facebook.com/7fridaysband/">Seven Fridays</a></i></p>
+
+<blockquote>
+<p>
+Il faut se rendre à l’évidence<br />
+Les dés sont jetés à l’avance<br />
+Les jeux sont faits<br />
+Garçon ou fille, quelle importance ?<br />
+La vie te donne une carte chance<br />
+À toi de jouer<br />
+<br />
+Sur l’échiquier être la Reine ou le Roi<br />
+Ça tu sais on ne choisit pas, crois moi<br />
+Mais le prochain coup que tu joueras<br />
+Il ne dépend que de toi<br />
+<br />
+Il faut apprendre à te défendre<br />
+À ne pas te laisser surprendre<br />
+Par l’adversaire<br />
+Celui qui te met dans des cases<br />
+Qui de ses convictions t’écrase<br />
+Te met à terre<br />
+<br />
+Que dans ta main tu aies la Dame ou le Roi<br />
+Ça tu sais on ne choisit pas, crois moi<br />
+Mais la prochaine carte qui tombera<br />
+Elle ne dépend que de toi<br />
+<br />
+C’est pas ta faute si tu es toi<br />
+C’est dans les règles du jeu des lois<br />
+De la nature<br />
+Mais bats-toi contre le destin<br />
+Évite qu’il ne marque des poings<br />
+Sur ta figure<br />
+<br />
+Dans la bataille ne reste pas sur le carreau<br />
+Durcis ton cœur, pique la place du bourreau<br />
+Le prochain coup que tu donneras<br />
+Il ne dépend que de toi<br />
+<br />
+Garçon, fille, quelle importance ?<br />
+La vie te donne une carte chance<br />
+À toi de jouer<br />
+</p>
+
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
