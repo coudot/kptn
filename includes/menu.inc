@@ -23,7 +23,6 @@
                     <li><a href="https://www.jamendo.com/artist/463782/kptn" title="Jamendo"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-music fa-stack-1x fa-inverse"></i></span> Jamendo</a></li>
                     <li><a href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703" title="Dogmazic"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-dogmazic fa-stack-1x fa-inverse"></i></span> Dogmazic</a></li>
 		    <li class="dropdown-header">Plates-formes vidéo</li>
-                    <li><a href="https://pe.ertu.be/video-channels/kptn/" title="PeerTube"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-peertube fa-stack-1x fa-inverse"></i></span> PeerTube</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PL6Ylmd_bS5AulDzi60aVK2fHLD_eoPqtu" title="YouTube"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-youtube fa-stack-1x fa-inverse"></i></span> YouTube</a></li>
 		    <li class="dropdown-header">Réseaux sociaux</li>
                     <li><a href="https://www.facebook.com/kptnfrance/" title="Facebook"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span> Facebook</a></li>
