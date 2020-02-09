@@ -60,6 +60,7 @@
 
   <div id="footer" class="text-center">
         <a class="btn btn-default" href="https://www.facebook.com/kptnfrance/"><i class="fa fa-facebook"></i><span class="hidden-xs"> Facebook</span></a>
+        <a class="btn btn-default" href="https://www.twitter.com/kptnfrance/"><i class="fa fa-twitter"></i><span class="hidden-xs"> Twitter</span></a>
         <a class="btn btn-default" href="https://soundcloud.com/k_p_t_n"><i class="fa fa-soundcloud"></i><span class="hidden-xs"> SoundCloud</span></a>
         <a class="btn btn-default" href="https://www.jamendo.com/artist/463782/kptn"><i class="fa fa-music"></i><span class="hidden-xs"> Jamendo</span></a>
         <a class="btn btn-default" href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703"><i class="fa fa-dogmazic"></i><span class="hidden-xs"> Dogmazic</span></a>
