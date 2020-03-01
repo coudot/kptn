@@ -59,6 +59,7 @@
   </div>
 
   <div id="footer" class="text-center">
+        <a class="btn btn-default" href="https://framapiaf.org/@kptnfrance"><i class="fa fa-mastodon"></i><span class="hidden-xs"> Mastodon</span></a>
         <a class="btn btn-default" href="https://www.facebook.com/kptnfrance/"><i class="fa fa-facebook"></i><span class="hidden-xs"> Facebook</span></a>
         <a class="btn btn-default" href="https://www.twitter.com/kptnfrance/"><i class="fa fa-twitter"></i><span class="hidden-xs"> Twitter</span></a>
         <a class="btn btn-default" href="https://soundcloud.com/k_p_t_n"><i class="fa fa-soundcloud"></i><span class="hidden-xs"> SoundCloud</span></a>

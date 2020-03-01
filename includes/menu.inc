@@ -25,6 +25,7 @@
 		    <li class="dropdown-header">Plates-formes vidéo</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL6Ylmd_bS5AulDzi60aVK2fHLD_eoPqtu" title="YouTube"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-youtube fa-stack-1x fa-inverse"></i></span> YouTube</a></li>
 		    <li class="dropdown-header">Réseaux sociaux</li>
+                    <li><a rel="me" href="https://framapiaf.org/@kptnfrance" title="Mastodon"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-mastodon fa-stack-1x fa-inverse"></i></span> Mastodon</a></li>
                     <li><a href="https://www.facebook.com/kptnfrance/" title="Facebook"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span> Facebook</a></li>
                     <li><a href="https://www.twitter.com/kptnfrance/" title="Twitter"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span> Twitter</a></li>
 		    <li class="dropdown-header">Autres</li>
