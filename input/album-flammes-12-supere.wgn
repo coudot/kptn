@@ -4,6 +4,7 @@ og_image: images/kptn_supere_cover_320px.png
 og_description: Découvrez la chanson (su)père (album Flammes)
 logo: images/kptn_supere_cover_640px.png
 download: download/flammes/12 - Supere.mp3
+soundcloud: https://soundcloud.com/k_p_t_n/supere
 ----
 
 <h1 class="text-center"><!-- tmpl_var name="title" --></h1>
