@@ -14,6 +14,7 @@
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li><a href="bio.html"><i class="fa fa-user-circle-o"></i> Biographie</a></li>
+                <li><a href="agenda.html"><i class="fa fa-calendar"></i> Agenda / Concerts</a></li>
                 <li><a href="chansons.html"><i class="fa fa-music"></i> Chansons</a></li>
 		<li class="dropdown">
 		  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-share-alt-square"></i> Partager <span class="caret"></span></a>
