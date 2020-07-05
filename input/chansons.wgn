@@ -36,6 +36,31 @@ album_caverne: file_glob("album-caverne-*.wgn")
   <div class="col-md-6">
   </div>
   <div class="col-md-6">
+    <h2><a name="ukubebe"></a>Ukubébé (2020)</h2>
+  </div>
+  <div class="col-md-1">
+  </div>
+  <div class="col-md-4">
+    <img src="images/kptn_ukubebe_cover_640px.png" class="img-responsive img-thumbnail cover" alt="Ukubébé" />
+  </div>
+  <div class="col-md-1">
+  </div>
+  <div class="col-md-6">
+    <ol>
+      <li>Claire Mélodie
+            <a title="Écouter" class="badge" data-toggle="popover" data-content='<audio src="download/ukubebe/1 - Claire Melodie.mp3" controls></audio>'><i class="fa fa-play"></i></a>
+      </li>
+      <li>Lucille Song
+            <a title="Écouter" class="badge" data-toggle="popover" data-content='<audio src="download/ukubebe/2 - Lucille Song.mp3" controls></audio>'><i class="fa fa-play"></i></a>
+      </li>
+    </ol>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+  </div>
+  <div class="col-md-6">
     <h2><a name="caverne"></a>Caverne (2000)</h2>
   </div>
   <div class="col-md-1">
