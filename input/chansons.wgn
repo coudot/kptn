@@ -46,6 +46,7 @@ album_caverne: file_glob("album-caverne-*.wgn")
   <div class="col-md-1">
   </div>
   <div class="col-md-6">
+    <p><i>Des chansons au Ukulélé pour les bébés (et leurs ainés).</i></p>
     <ol>
       <li>Claire Mélodie
             <a title="Écouter" class="badge" data-toggle="popover" data-content='<audio src="download/ukubebe/1 - Claire Melodie.mp3" controls></audio>'><i class="fa fa-play"></i></a>
