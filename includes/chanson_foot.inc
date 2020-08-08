@@ -6,7 +6,7 @@
       <div class="song-name">
         <p><!-- tmpl_var name="title" --></p>
       </div>
-      <audio preload="auto" controls>
+      <audio preload="none" controls>
         <source src="<!-- tmpl_var name="download" -->">
       </audio>
     </div>
