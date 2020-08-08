@@ -37,7 +37,7 @@ album_caverne: file_glob("album-caverne-*.wgn")
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="logo" -->" alt="<!-- tmpl_var name="title" -->"></a>
+                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="og_image" -->" alt="<!-- tmpl_var name="title" -->"></a>
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -134,7 +134,7 @@ album_caverne: file_glob("album-caverne-*.wgn")
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="logo" -->" alt="<!-- tmpl_var name="title" -->"></a>
+                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="og_image" -->" alt="<!-- tmpl_var name="title" -->"></a>
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
