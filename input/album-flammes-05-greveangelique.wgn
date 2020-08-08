@@ -9,7 +9,6 @@ jamendo: https://www.jamendo.com/track/1556316/greve-angelique
 dogmazic: http://play.dogmazic.net/index.php#song.php?action=show_song&song_id=59292
 ----
 
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
 <!-- tmpl_include name="chanson_head.inc"-->
 

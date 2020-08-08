@@ -9,7 +9,6 @@ jamendo: https://www.jamendo.com/track/1631273/ma-chanson-d-amour
 dogmazic: http://play.dogmazic.net/index.php#song.php?action=show_song&song_id=60434
 ----
 
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
 <!-- tmpl_include name="chanson_head.inc"-->
 

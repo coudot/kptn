@@ -1,0 +1,155 @@
+title: Albums
+album_flammes: file_glob("album-flammes-*.wgn")
+album_caverne: file_glob("album-caverne-*.wgn")
+----
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/breadcumb3.jpg);">
+        <div class="bradcumbContent">
+            <h2>Albums</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
+
+    
+    <!-- ##### Song Area Start ##### -->
+    <section class="mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
+    <a name="flammes"></a>
+    <div class="one-music-songs-area mb-70 section-padding-100-0">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="images/kptn_flammes_cover_320px.png" alt="Flammes">
+                        </div>
+                    
+                    <div class="elements-title">
+                        <h2>2020 | Flammes</h2>
+                        <p>Premier album studio.</p>
+                    </div>
+                    </div>
+                </div>
+
+        <!-- tmpl_loop name="album_flammes" -->
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="logo" -->" alt="<!-- tmpl_var name="title" -->"></a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p><!-- tmpl_var name="__counter__" -->. <!-- tmpl_var name="title" --></p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="<!-- tmpl_var name="download" -->">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+        <!-- /tmpl_loop -->            
+
+            </div>
+        </div>
+    </div>
+
+    <a name="ukubebe"></a>
+    <div class="one-music-songs-area mb-70 section-padding-100-0">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                        </div>
+                    
+                    <div class="elements-title">
+                        <h2>2020 | Ukubébé</h2>
+                        <p>Des musiques au Ukulélé pour les bébés (et leurs ainés).</p>
+                    </div>
+                    </div>
+                </div>
+            
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>1. Claire Mélodie</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="download/ukubebe/1 - Claire Melodie.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>2. Lucille Song</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="download/ukubebe/2 - Lucille Song.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <a name="caverne"></a>    
+    <div class="one-music-songs-area mb-70 section-padding-100-0">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="images/kptn_caverne_cover_320px.png" alt="Caverne">
+                        </div>
+                    
+                    <div class="elements-title">
+                        <h2>2000 | Caverne</h2>
+                        <p>Premiers pas.</p>
+                    </div>
+                    </div>
+                </div>
+
+        <!-- tmpl_loop name="album_caverne" -->
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="logo" -->" alt="<!-- tmpl_var name="title" -->"></a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p><!-- tmpl_var name="__counter__" -->. <!-- tmpl_var name="title" --></p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="<!-- tmpl_var name="download" -->">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+        <!-- /tmpl_loop -->            
+
+            </div>
+        </div>
+    </div>
+    <!-- ##### Song Area End ##### -->
+    </section>

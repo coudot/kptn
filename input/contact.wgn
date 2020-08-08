@@ -1,0 +1,58 @@
+title: Contact
+----
+
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/breadcumb.jpg);">
+        <div class="bradcumbContent">
+            <h2>Contact</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
+
+
+    <section class="index-area mt-30 section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                
+                
+                    <div class="row">
+
+                        <!-- Single Service Area -->
+                        <div class="col-12 col-md-6">
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-message"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Envoyer un mail</h5>
+                                    <p>Vous pouvez écrire à <b>contact</b> AT <b>kptn.org</b></p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Service Area -->
+                        <div class="col-12 col-md-6">
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-like"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Réseaux sociaux</h5>
+                                    <p>Si l'envoi d'un mail n'est pas possible, vous pouvez envoyer un message privé sur les réseaux sociaux</p>
+                    <div class="oneMusic-buttons-area mb-100">
+                        <a href="https://framapiaf.org/@kptnfrance" class="btn oneMusic-btn m-2" target="_blank">Mastodon <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.facebook.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank">Facebook <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.twitter.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank">Twitter <i class="fa fa-angle-double-right"></i></a>
+                    </div> 
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>

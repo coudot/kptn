@@ -9,7 +9,6 @@ jamendo: https://www.jamendo.com/track/1631278/a-qui-veut-l-entendre
 dogmazic: http://play.dogmazic.net/index.php#song.php?action=show_song&song_id=60435
 ----
 
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
 <!-- tmpl_include name="chanson_head.inc"-->
 

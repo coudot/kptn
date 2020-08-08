@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <meta charset="utf-8">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="KPTN, auteur, compositeur, interprète en Creative Commons">
     <meta name="keywords" content="musique,guitare,auteur,compositeur,interprète">
     <meta name="author" content="Clément OUDOT">
 
-    <link rel="icon" type="image/png" href="/favicon.png">
-
+    <!-- Title -->
     <!-- tmpl_if name='title' -->
     <title>KPTN - <!-- tmpl_var name='title' escape='html' --></title>
     <!-- tmpl_else -->
@@ -19,9 +21,9 @@
     <meta property="og:title" content="KPTN - <!-- tmpl_var name='title' escape='html' -->" />
     <meta property="og:type" content="website" />
     <!-- tmpl_if name='og_image' -->
-    <meta property="og:image" content="https://kptn.oodo.net/<!-- tmpl_var name='og_image' -->" />
+    <meta property="og:image" content="https://kptn.org/<!-- tmpl_var name='og_image' -->" />
     <!-- tmpl_else -->
-    <meta property="og:image" content="https://kptn.oodo.net/images/kptn_opengraph.png" />
+    <meta property="og:image" content="https://kptn.org/images/kptn_opengraph.png" />
     <!-- /tmpl_if -->
     <!-- tmpl_if name='og_description' -->
     <meta property="og:description" content="<!-- tmpl_var name='og_description' -->" />
@@ -29,51 +31,67 @@
     <meta property="og:description" content="KPTN, auteur, compositeur, interprète en Creative Commons" />
     <!-- /tmpl_if -->
 
-    <!-- Bootstrap CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/favicon.png">
 
-    <!-- FontAwesome CSS -->
-    <link href="css/fork-awesome.min.css" rel="stylesheet">
 
-    <!-- Custom styles for this template -->
-    <link href="css/kptn.css" rel="stylesheet">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
 
-  </head>
+</head>
 
-  <body>
-
-  <div id="wrap">
-
-    <div class="container">
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
 
     <!-- tmpl_include name="menu.inc"-->
 
-        <div class="panel panel-default panel-body">
+    <!-- tmpl_var name='content' -->
 
-        <!-- tmpl_var name='content' -->
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="col-12 col-md-6">
+                    <a href="index.html"><img src="images/logo.png" alt="KPTN"></a>
+                    <p class="copywrite-text"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Clément OUDOT | <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons BY SA</a> | Template by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                </div>
 
+                <div class="col-12 col-md-6">
+                    <div class="footer-nav">
+                        <ul>
+                            <li><a href="index.html">Accueil</a></li>
+                            <li><a href="albums.html">Albums</a></li>
+                            <li><a href="agenda.html">Agenda</a></li>
+                            <li><a href="soutenir.html">Soutenir</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
+    </footer>
+    <!-- ##### Footer Area Start ##### -->
 
-    </div>
-
-  </div>
-
-  <div id="footer" class="text-center">
-        <a class="btn btn-default" href="https://framapiaf.org/@kptnfrance"><i class="fa fa-mastodon"></i><span class="hidden-xs"> Mastodon</span></a>
-        <a class="btn btn-default" href="https://www.facebook.com/kptnfrance/"><i class="fa fa-facebook"></i><span class="hidden-xs"> Facebook</span></a>
-        <a class="btn btn-default" href="https://www.twitter.com/kptnfrance/"><i class="fa fa-twitter"></i><span class="hidden-xs"> Twitter</span></a>
-        <a class="btn btn-default" href="https://soundcloud.com/k_p_t_n"><i class="fa fa-soundcloud"></i><span class="hidden-xs"> SoundCloud</span></a>
-        <a class="btn btn-default" href="https://www.jamendo.com/artist/463782/kptn"><i class="fa fa-music"></i><span class="hidden-xs"> Jamendo</span></a>
-        <a class="btn btn-default" href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703"><i class="fa fa-dogmazic"></i><span class="hidden-xs"> Dogmazic</span></a>
-  </div>
-
-  <!-- Bootstrap core JavaScript
-  ================================================== -->
-  <!-- Placed at the end of the document so the pages load faster -->
-  <script src="js/jquery-1.10.2.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/kptn.js"></script>
-
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>  
   </body>
-
-</html>
+</html> 

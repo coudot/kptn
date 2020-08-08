@@ -1,0 +1,111 @@
+title: Soutenir
+----
+
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/breadcumb2.jpg);">
+        <div class="bradcumbContent">
+            <p>J'aime, j'aide !</p>
+            <h2>Soutenir</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
+
+
+    <section class="index-area mt-30 section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                
+                
+                    <div class="row">
+
+                        <!-- Single Service Area -->
+                        <div class="col-12 col-md-6">
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-money"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>C'est vraiment gratuit ?</h5>
+                                    <p>Oui, tout ce qui est diffusé sur ce site est libre et gratuit, il n'y a aucune obligation de contrepartie.</p>
+                                    <p>Vous pouvez toutefois donner de l'argent via Tipee <iframe src="//fr.tipeee.com/kptn/embed/button" width="100px" height="25" style="border:0"></iframe> ou Liberapay <script src="https://liberapay.com/KPTN/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/KPTN/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></p>
+                                </div>
+                                
+                            </div>
+                        </div>
+
+                        <!-- Single Service Area -->
+                        <div class="col-12 col-md-6">
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-like"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Coup de pouce</h5>
+                                    <p>Il est possible de contribuer sans donner d'argent, il suffit pour cela d'aider à faire connaître KPTN autour de vous !</p>
+                                    <p>Vous pouvez tout d'abord vous abonner aux comptes KPTN sur les réseaux sociaux et partager les publications. Rendez-vous également sur les sites de diffusion de musique pour écouter en ligne !</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Service Area -->
+                        <div class="col-12 col-md-6">
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-heart"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Suivre KPTN sur les réseaux sociaux</h5>
+                    <div class="oneMusic-buttons-area mb-100">
+                        <a href="https://framapiaf.org/@kptnfrance" class="btn oneMusic-btn m-2" target="_blank">Mastodon <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.facebook.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank">Facebook <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.twitter.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank">Twitter <i class="fa fa-angle-double-right"></i></a>
+                    </div> 
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Service Area -->
+                        <div class="col-12 col-md-6">
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-music"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Écouter KPTN sur les sites musicaux</h5>
+                    <div class="oneMusic-buttons-area mb-100">
+                        <a href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703" class="btn oneMusic-btn m-2" target="_blank">Dogmazic <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://soundcloud.com/k_p_t_n" class="btn oneMusic-btn m-2" target="_blank">SoundCloud <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.jamendo.com/artist/463782/kptn" class="btn oneMusic-btn m-2" target="_blank">Jamendo <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.youtube.com/playlist?list=PL6Ylmd_bS5AulDzi60aVK2fHLD_eoPqtu" class="btn oneMusic-btn m-2" target="_blank">YouTube <i class="fa fa-angle-double-right"></i></a>
+                    </div> 
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <!-- Single Service Area -->
+                        <div class="col-12 col-md-6">
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-favorites"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Autres sites</h5>
+                    <div class="oneMusic-buttons-area mb-100">
+                        <a href="https://framalibre.org/content/kptn" class="btn oneMusic-btn m-2" target="_blank">Framalibre <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://musicbrainz.org/artist/0ac3884e-99f0-4022-8f21-6c76e2f78486" class="btn oneMusic-btn m-2" target="_blank">MusicBrainz <i class="fa fa-angle-double-right"></i></a>
+                    </div> 
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>

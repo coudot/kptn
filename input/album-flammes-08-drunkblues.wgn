@@ -8,7 +8,6 @@ soundcloud: https://soundcloud.com/k_p_t_n/drunk-blues-1
 jamendo: https://www.jamendo.com/track/1743706/drunk-blues
 ----
 
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
 <!-- tmpl_include name="chanson_head.inc"-->
 

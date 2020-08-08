@@ -1,32 +1,198 @@
 title: Agenda / Concerts
 ----
 
-<h1 class="text-center">Agenda / Concerts</h1>
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/breadcumb.jpg);">
+        <div class="bradcumbContent">
+            <p>Concerts</p>
+            <h2>Agenda</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
 
-<img src="images/photo_kptn_concert_poss_20181206.jpg" class="img-responsive img-thumbnail center-block" alt="Photo concert POSS 1028" />
+    <!-- ##### Blog Area Start ##### -->
+    <div class="blog-area section-padding-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-9">
 
-<h2><i class="fa fa-calendar-o"></i> 2020</h2>
+                <a name="2020"></a>
 
-<ul>
-    <li><b>30/06</b> | Concert lors de la conférence en ligne <a href="https://2020.pass-the-salt.org/talks/130.html">Pass the SALT</a> (revoir sur <a href="https://passthesalt.ubicast.tv/videos/2020-concert-de-musique-libre-chanson-francaise-par-kptn/">Ubicat</a>, <a href="https://www.youtube.com/watch?v=rD8AOoOw3Dg">YouTube</a>, <a href="https://www.facebook.com/kptnfrance/videos/296792408343851/">Facebook</a>)</li>
-    <li><b>15/04</b> | Diffusion dans l'émission "La playlist de Libre à vous" de Cause Commune (<a href="https://cause-commune.fm/podcast/02-la-playlist-de-libre-a-vous/">réécouter</a>)</li>
-</ul>
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_pts_20203006.png" alt="Pass the SALT">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>30</span>
+                                <span>Juin 2020</span>
+                            </div>
+                        </div>
 
-<h2><i class="fa fa-calendar-o"></i> 2019</h2>
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Pass the SALT</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors de la conférence en ligne <a href="https://2020.pass-the-salt.org/talks/130.html">Pass the SALT</a> (revoir sur <a href="https://passthesalt.ubicast.tv/videos/2020-concert-de-musique-libre-chanson-francaise-par-kptn/">Ubicast</a>, <a href="https://www.youtube.com/watch?v=rD8AOoOw3Dg">YouTube</a>, <a href="https://www.facebook.com/kptnfrance/videos/296792408343851/">Facebook</a>)</p>
+                        </div>
+                    </div>
 
-<ul>
-    <li><b>21/06</b> | Concert pour la fête de la musique à <a href="http://www.institut-lumiere.org/">l'Institut Lumière</a> à Lyon</li>
-</ul>
-<h2><i class="fa fa-calendar-o"></i> 2018</h2>
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/lav-300x300.jpg" alt="Libre à vous">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>15</span>
+                                <span>Avril 2020</span>
+                            </div>
+                        </div>
 
-<ul>
-    <li><b>06/12</b> | Concert lors du <a href="http://opensourcesummit.paris/">Paris Open Source Summit</a> (revoir sur <a href="https://www.youtube.com/watch?v=3ymsGjA88YU">YouTube</a>)</li>
-    <li><b>11/03</b> | Diffusion dans l'émission "120 minutes - Emission radio alternative !" sur <a href="http://www.trentmix.com/">TrenTMix Radio</a></li>
-    <li><b>11/01</b> | Concert lors de l'inauguration de <a href="https://www.la-cordee.net/">La Cordée République</a></li>
-</ul>
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Libre à vous</a>
+                            <!-- Post Excerpt -->
+                            <p>Diffusion dans l'émission "La playlist de Libre à vous" de Cause Commune (<a href="https://cause-commune.fm/podcast/02-la-playlist-de-libre-a-vous/">réécouter</a>)</p>
+                        </div>
+                    </div>
 
-<h2><i class="fa fa-calendar-o"></i> 2017</h2>
+                <a name="2019"></a>
 
-<ul>
-    <li><b>06/07</b> | Concert aux <a href="https://prog2017.rmll.info/programme/esthetique-du-libre-engagement-participation-cooperation/kptn">Rencontres Mondiales du Logiciel Libre</a></li>
-</ul>
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_20190621.jpg" alt="Fête de la musique">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>21</span>
+                                <span>Juin 2019</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Fête de la musique</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert pour la fête de la musique à <a href="http://www.institut-lumiere.org/">l'Institut Lumière</a> à Lyon</p>
+                        </div>
+                    </div>
+
+                <a name="2018"></a>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_poss_20181206.jpg" alt="Paris Open Source Summit">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>06</span>
+                                <span>Décembre 2018</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Paris Open Source Summit</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors du <a href="http://opensourcesummit.paris/">Paris Open Source Summit</a> (revoir sur <a href="https://www.youtube.com/watch?v=3ymsGjA88YU">YouTube</a>)</p>
+                        </div>
+                    </div>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/logo_120minutes.png" alt="120 minutes - Emission radio alternative !">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>11</span>
+                                <span>Mars 2018</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">120 minutes - Emission radio alternative !</a>
+                            <!-- Post Excerpt -->
+                            <p>Diffusion dans l'émission "120 minutes - Emission radio alternative !" sur <a href="http://www.trentmix.com/">TrenTMix Radio</a></p>
+                        </div>
+                    </div>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_cordee_20180111.png" alt="La Cordéee">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>11</span>
+                                <span>Janvier 2018</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Inauguration de la Cordée République</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors de l'inauguration de <a href="https://www.la-cordee.net/">La Cordée République</a></p>
+                        </div>
+                    </div>
+
+                <a name="2017"></a>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/banniere_rmll2017.png" alt="RMLL">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>06</span>
+                                <span>Juillet 2017</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Rencontres Mondiales du Logiciel Libre</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert aux <a href="https://prog2017.rmll.info/programme/esthetique-du-libre-engagement-participation-cooperation/kptn">Rencontres Mondiales du Logiciel Libre</a></p>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div class="col-12 col-lg-3">
+                    <div class="blog-sidebar-area">
+                       <!-- Widget Area -->
+                        <div class="single-widget-area mb-30">
+                            <div class="widget-title">
+                                <h5>Années</h5>
+                            </div>
+                            <div class="widget-content">
+                                <ul>
+                                    <li><a href="#2020">2020</a></li>
+                                    <li><a href="#2019">2019</a></li>
+                                    <li><a href="#2018">2018</a></li>
+                                    <li><a href="#2017">2017</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### Blog Area End ##### -->

@@ -9,7 +9,6 @@ jamendo: https://www.jamendo.com/track/1205886/drunk-blues
 dogmazic: http://play.dogmazic.net/browse.php?action=artist#song.php?action=show_song&song_id=58909
 ----
 
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
 <!-- tmpl_include name="chanson_head.inc"-->
 

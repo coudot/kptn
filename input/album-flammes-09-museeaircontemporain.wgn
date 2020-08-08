@@ -7,7 +7,6 @@ download: download/flammes/9 - Le musee d air contemporain.mp3
 soundcloud: https://soundcloud.com/k_p_t_n/le-musee-dair-contemporain
 ----
 
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
 <!-- tmpl_include name="chanson_head.inc"-->
 

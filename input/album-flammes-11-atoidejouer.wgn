@@ -5,7 +5,6 @@ og_description: Découvrez la chanson À toi de jouer (album Flammes)
 logo: images/kptn_atoidejouer_cover_640px.png
 ----
 
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
 
 <!-- tmpl_include name="chanson_head.inc"-->
 
