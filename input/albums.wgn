@@ -3,7 +3,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
 album_caverne: file_glob("album-caverne-*.wgn")
 ----
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/breadcumb3.jpg);">
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/background2.jpg);">
         <div class="bradcumbContent">
             <h2>Albums</h2>
         </div>
