@@ -43,7 +43,7 @@ album_caverne: file_glob("album-caverne-*.wgn")
                             <div class="song-name">
                                 <p><!-- tmpl_var name="__counter__" -->. <!-- tmpl_var name="title" --></p>
                             </div>
-                            <audio preload="auto" controls>
+                            <audio preload="none" controls>
                                 <source src="<!-- tmpl_var name="download" -->">
                             </audio>
                         </div>
@@ -83,7 +83,7 @@ album_caverne: file_glob("album-caverne-*.wgn")
                             <div class="song-name">
                                 <p>1. Claire Mélodie</p>
                             </div>
-                            <audio preload="auto" controls>
+                            <audio preload="none" controls>
                                 <source src="download/ukubebe/1 - Claire Melodie.mp3">
                             </audio>
                         </div>
@@ -100,7 +100,7 @@ album_caverne: file_glob("album-caverne-*.wgn")
                             <div class="song-name">
                                 <p>2. Lucille Song</p>
                             </div>
-                            <audio preload="auto" controls>
+                            <audio preload="none" controls>
                                 <source src="download/ukubebe/2 - Lucille Song.mp3">
                             </audio>
                         </div>
@@ -140,7 +140,7 @@ album_caverne: file_glob("album-caverne-*.wgn")
                             <div class="song-name">
                                 <p><!-- tmpl_var name="__counter__" -->. <!-- tmpl_var name="title" --></p>
                             </div>
-                            <audio preload="auto" controls>
+                            <audio preload="none" controls>
                                 <source src="<!-- tmpl_var name="download" -->">
                             </audio>
                         </div>
