@@ -1,5 +1,5 @@
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/breadcumb3.jpg);">
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/background2.jpg);">
         <div class="bradcumbContent">
             <h2><!-- tmpl_var name="title" --></h1>
         </div>
