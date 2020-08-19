@@ -111,6 +111,45 @@ album_caverne: file_glob("album-caverne-*.wgn")
         </div>
     </div>
 
+    <a name="igloo"></a>
+    <div class="one-music-songs-area mb-70 section-padding-100-0">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="images/kptn_igloo_cover_320px.png" alt="Igloo">
+                        </div>
+
+                    <div class="elements-title">
+                        <h2>???? | Igloo</h2>
+                        <p>Des chansons mises au frais en attendant un prochain album.</p>
+                    </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="quarantaine.html" title="Voir les paroles de Quarantaine"><img src="images/kptn_quarantaine_cover_320px.png" alt="Quarantaine"></a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Quarantaine</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="download/igloo/quarantaine.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
     <a name="caverne"></a>    
     <div class="one-music-songs-area mb-70 section-padding-100-0">
         <div class="container">
