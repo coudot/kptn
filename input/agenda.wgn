@@ -22,6 +22,27 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
+                            <img src="images/logo_120minutes.png" alt="120 minutes - Emission radio alternative !">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>27</span>
+                                <span>Septembre 2020</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">120 minutes - Emission radio alternative !</a>
+                            <!-- Post Excerpt -->
+                            <p>Diffusion dans l'émission "120 minutes - Emission radio alternative !" sur <a href="http://www.trentmix.com/">TrenTMix Radio</a>. <a href="https://www.mixcloud.com/120_Minutes/120-minutes-%C3%A9mission-du-27092020/"target="_blank">Réécoutez l'émission</a>, rendez-vous directement à la 29e minute pour les plus pressés&nbsp;!</p>
+                        </div>
+                    </div>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
                             <img src="images/photo_kptn_concert_pts_20203006.png" alt="Pass the SALT">
                             <!-- Post Date -->
                             <div class="post-date">
