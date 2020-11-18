@@ -76,8 +76,9 @@ title: Chanson Française Mais Amusante
                                 <div class="text">
                                     <h5>Art Libre</h5>
                                     <p>Musique et paroles sont libres, sous licence CC-BY-SA, ce qui signifie que vous pouvez télécharger, partager, même modifier librement ces chansons. Vous devez simplement citer l'auteur et partager dans les mêmes conditions</p>
-                                    <p>Si vous le souhaitez, vous pouvez donner de l'argent via Tipee <iframe src="//fr.tipeee.com/kptn/embed/button" width="100px" height="25" style="border:0"></iframe> ou Liberapay <script src="https://liberapay.com/KPTN/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/KPTN/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></p>
+                                    <p>Si vous le souhaitez, vous pouvez donner de l'argent via Tipee.</p>
+                                    <a href="https://fr.tipeee.com/kptn" class="tipeee-project-small">Soutenez KPTN sur Tipeee</a>
+                                    <script async src="https://plugin.tipeee.com/widget.js" charset="utf-8"></script>
                                     <hr />
                                     <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.</p>
                                 </div>

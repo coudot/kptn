@@ -28,8 +28,9 @@ title: Soutenir
                                 <div class="text">
                                     <h5>C'est vraiment gratuit ?</h5>
                                     <p>Oui, tout ce qui est diffusé sur ce site est libre et gratuit, il n'y a aucune obligation de contrepartie.</p>
-                                    <p>Vous pouvez toutefois donner de l'argent via Tipee <iframe src="//fr.tipeee.com/kptn/embed/button" width="100px" height="25" style="border:0"></iframe> ou Liberapay <script src="https://liberapay.com/KPTN/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/KPTN/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></p>
+                                    <p>Vous pouvez toutefois donner de l'argent via Tipee.</p>
+                                    <a href="https://fr.tipeee.com/kptn" class="tipeee-goal-block" data-color="blue">Soutenez KPTN sur Tipeee</a>
+                                    <script async src="https://plugin.tipeee.com/widget.js" charset="utf-8"></script>²
                                 </div>
                                 
                             </div>
