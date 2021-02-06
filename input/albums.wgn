@@ -124,6 +124,25 @@ album_caverne: file_glob("album-caverne-*.wgn")
                     </div>
                 </div>
 
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="download/ukubebe/4 - Gammes au vert.mp3" title="Télécharger">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>4. Gammes au vert</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="download/ukubebe/4 - Gammes au vert.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
