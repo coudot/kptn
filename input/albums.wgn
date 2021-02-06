@@ -77,7 +77,9 @@ album_caverne: file_glob("album-caverne-*.wgn")
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <a href="download/ukubebe/1 - Claire Melodie.mp3" title="Télécharger">
                             <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -94,7 +96,9 @@ album_caverne: file_glob("album-caverne-*.wgn")
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <a href="download/ukubebe/2 - Lucille Song.mp3" title="Télécharger">
                             <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -111,7 +115,9 @@ album_caverne: file_glob("album-caverne-*.wgn")
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <a href="download/ukubebe/3 - Moonlight.mp3" title="Télécharger">
                             <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
