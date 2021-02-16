@@ -13,7 +13,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
     <!-- ##### Song Area Start ##### -->
     <section class="mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
     <a name="flammes"></a>
-    <div class="one-music-songs-area mb-70 section-padding-100-0">
+    <div class="one-music-songs-area mt-70 mb-30">
 
         <div class="container">
             <div class="row">
@@ -21,41 +21,25 @@ album_flammes: file_glob("album-flammes-*.wgn")
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <a href="album-flammes.html">
                             <img src="images/kptn_flammes_cover_320px.png" alt="Flammes">
+                            </a>
                         </div>
                     
                     <div class="elements-title">
                         <h2>2021 | Flammes</h2>
-                        <p>Album en préparation.</p>
+                        <p>Premier album officiel.</p>
+                        <a href="album-flammes.html">Découvrir l'album</a>
                     </div>
                     </div>
                 </div>
-
-        <!-- tmpl_loop name="album_flammes" -->
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="og_image" -->" alt="<!-- tmpl_var name="title" -->"></a>
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p><!-- tmpl_var name="__counter__" -->. <!-- tmpl_var name="title" --></p>
-                            </div>
-                            <audio preload="none" controls>
-                                <source src="<!-- tmpl_var name="download" -->">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-        <!-- /tmpl_loop -->            
 
             </div>
         </div>
     </div>
 
     <a name="ukubebe"></a>
-    <div class="one-music-songs-area mb-70">
+    <div class="one-music-songs-area mb-30">
         <div class="container">
             <div class="row">
 
@@ -80,7 +64,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
     </div>
 
     <a name="igloo"></a>
-    <div class="one-music-songs-area mb-70">
+    <div class="one-music-songs-area mb-30">
         <div class="container">
             <div class="row">
 
@@ -105,7 +89,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
     </div>
 
     <a name="caverne"></a>    
-    <div class="one-music-songs-area mb-70">
+    <div class="one-music-songs-area mb-30">
         <div class="container">
             <div class="row">
 
