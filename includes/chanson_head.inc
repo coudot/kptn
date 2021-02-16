@@ -1,5 +1,9 @@
     <!-- ##### Breadcumb Area Start ##### -->
+    <!-- tmpl_if name="cover" -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(<!-- tmpl_var name="cover" -->);">
+    <!-- tmpl_else -->
     <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/background2.jpg);">
+    <!-- /tmpl_if -->
         <div class="bradcumbContent">
             <h2><!-- tmpl_var name="title" --></h1>
         </div>
