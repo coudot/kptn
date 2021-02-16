@@ -1,0 +1,107 @@
+title: Ukubébé
+og_image: images/kptn_ukubebee_cover_320px.png
+og_description: Découvrez l'album Ukubébé
+----
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/kptn_ukubebe_cover_640px.png);">
+        <div class="bradcumbContent">
+            <h2><!-- tmpl_var name="title" --></h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
+
+
+    <!-- ##### Song Area Start ##### -->
+    <section class="mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
+
+    <div class="text-center section-padding-100-0">
+        <img src="images/kptn_ukubebe_cover_320px.png" />
+    </div>
+
+    <div class="one-music-songs-area mb-70 section-padding-100-0">
+        <div class="container">
+            <div class="row">
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="download/ukubebe/1 - Claire Melodie.mp3" title="Télécharger">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>1. Claire Mélodie</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="download/ukubebe/1 - Claire Melodie.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="download/ukubebe/2 - Lucille Song.mp3" title="Télécharger">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>2. Lucille Song</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="download/ukubebe/2 - Lucille Song.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="download/ukubebe/3 - Moonlight.mp3" title="Télécharger">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>3. Moonlight</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="download/ukubebe/3 - Moonlight.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>  
+                        
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="download/ukubebe/4 - Gammes au vert.mp3" title="Télécharger">
+                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>4. Gammes au vert</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="download/ukubebe/4 - Gammes au vert.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div> 
+
+            </div>
+        </div>
+    </div>
+    <!-- ##### Song Area End ##### -->
+    </section>
+
+<p class="text-center"><a href="albums.html">Retour aux albums</a></p>

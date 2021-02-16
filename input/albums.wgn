@@ -55,105 +55,32 @@ album_flammes: file_glob("album-flammes-*.wgn")
     </div>
 
     <a name="ukubebe"></a>
-    <div class="one-music-songs-area mb-70 section-padding-100-0">
+    <div class="one-music-songs-area mb-70">
         <div class="container">
             <div class="row">
 
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <a href="album-ukubebe.html">
                             <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
+                            </a>
                         </div>
                     
                     <div class="elements-title">
                         <h2>2020 | Ukubébé</h2>
                         <p>Des musiques au Ukulélé pour les bébés (et leurs ainés).</p>
+                        <a href="album-ukubebe.html">Découvrir les musiques</a>
                     </div>
                     </div>
                 </div>
             
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <a href="download/ukubebe/1 - Claire Melodie.mp3" title="Télécharger">
-                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
-                            </a>
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>1. Claire Mélodie</p>
-                            </div>
-                            <audio preload="none" controls>
-                                <source src="download/ukubebe/1 - Claire Melodie.mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <a href="download/ukubebe/2 - Lucille Song.mp3" title="Télécharger">
-                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
-                            </a>
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>2. Lucille Song</p>
-                            </div>
-                            <audio preload="none" controls>
-                                <source src="download/ukubebe/2 - Lucille Song.mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <a href="download/ukubebe/3 - Moonlight.mp3" title="Télécharger">
-                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
-                            </a>
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>3. Moonlight</p>
-                            </div>
-                            <audio preload="none" controls>
-                                <source src="download/ukubebe/3 - Moonlight.mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <a href="download/ukubebe/4 - Gammes au vert.mp3" title="Télécharger">
-                            <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
-                            </a>
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>4. Gammes au vert</p>
-                            </div>
-                            <audio preload="none" controls>
-                                <source src="download/ukubebe/4 - Gammes au vert.mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>
 
     <a name="igloo"></a>
-    <div class="one-music-songs-area mb-70 section-padding-100-0">
+    <div class="one-music-songs-area mb-70">
         <div class="container">
             <div class="row">
 
@@ -178,7 +105,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
     </div>
 
     <a name="caverne"></a>    
-    <div class="one-music-songs-area mb-70 section-padding-100-0">
+    <div class="one-music-songs-area mb-70">
         <div class="container">
             <div class="row">
 
