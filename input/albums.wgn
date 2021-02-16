@@ -160,30 +160,16 @@ album_flammes: file_glob("album-flammes-*.wgn")
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <a href="album-igloo.html">
                             <img src="images/kptn_igloo_cover_320px.png" alt="Igloo">
+                            </a>
                         </div>
 
                     <div class="elements-title">
                         <h2>???? | Igloo</h2>
                         <p>Des chansons mises au frais en attendant un prochain album.</p>
+                        <a href="album-igloo.html">Découvrir les chansons</a>
                     </div>
-                    </div>
-                </div>
-
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <a href="quarantaine.html" title="Voir les paroles de Quarantaine"><img src="images/kptn_quarantaine_cover_320px.png" alt="Quarantaine"></a>
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Quarantaine</p>
-                            </div>
-                            <audio preload="none" controls>
-                                <source src="download/igloo/quarantaine.mp3">
-                            </audio>
-                        </div>
                     </div>
                 </div>
 
