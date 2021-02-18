@@ -26,7 +26,8 @@ album_flammes: file_glob("album-flammes-*.wgn")
         <a href="https://music.apple.com/fr/album/flammes/1553484436" target="_blank">Apple Music</a>,
         <a href="https://music.amazon.fr/albums/B08WHDN8HV" target="_blank">Amazon Music</a>,
         <a href="https://listen.tidal.com/album/173243876" target="_blank">Tidal</a>,
-        <a href="https://www.qobuz.com/fr-fr/album/flammes-kptn/otm4ayq4kzlbc" target="_blank">Qobuz</a>.
+        <a href="https://www.qobuz.com/fr-fr/album/flammes-kptn/otm4ayq4kzlbc" target="_blank">Qobuz</a>,
+        <a href="https://www.youtube.com/playlist?list=PL6Ylmd_bS5Aso78CYpZvuRCIkF5I4wvuN" target="_blank">YouTube</a>.
     </div>
 
     <div class="one-music-songs-area mb-70 section-padding-100-0">
