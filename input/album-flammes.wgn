@@ -19,16 +19,18 @@ album_flammes: file_glob("album-flammes-*.wgn")
         <img src="images/kptn_flammes_cover_320px.png" />
     </div>
 
-    <div class="text-center section-padding-100-0">
-        <p>À écouter sur cette page ou sur les sites suivants :
-        <a href="https://play.dogmazic.net/#albums.php?action=show&album=10456" target="_blank">Dogmazic</a>,
-        <a href="https://www.deezer.com/fr/album/207019212" target="_blank">Deezer</a>,
-        <a href="https://open.spotify.com/album/7o5NbDQCRx6KYF9H8Gq40z" target="_blank">Spotify</a>,
-        <a href="https://music.apple.com/fr/album/flammes/1553484436" target="_blank">Apple Music</a>,
-        <a href="https://music.amazon.fr/albums/B08WHDN8HV" target="_blank">Amazon Music</a>,
-        <a href="https://listen.tidal.com/album/173243876" target="_blank">Tidal</a>,
-        <a href="https://www.qobuz.com/fr-fr/album/flammes-kptn/otm4ayq4kzlbc" target="_blank">Qobuz</a>,
-        <a href="https://www.youtube.com/playlist?list=PL6Ylmd_bS5Aso78CYpZvuRCIkF5I4wvuN" target="_blank">YouTube</a>.
+    <div class="text-center section-padding-100-0 container">
+        <h4>À écouter sur cette page ou sur les sites suivants :</h4>
+        <div class="oneMusic-buttons-area">
+        <a class="btn oneMusic-btn m-2" href="https://music.amazon.fr/albums/B08WHDN8HV" target="_blank"><i class="fa fa-amazon"></i> Amazon Music</a>
+        <a class="btn oneMusic-btn m-2" href="https://music.apple.com/fr/album/flammes/1553484436" target="_blank"><i class="fa fa-apple"></i> Apple Music</a>
+        <a class="btn oneMusic-btn m-2" href="https://www.deezer.com/fr/album/207019212" target="_blank">Deezer</a>
+        <a class="btn oneMusic-btn m-2" href="https://play.dogmazic.net/#albums.php?action=show&album=10456" target="_blank">Dogmazic</a>
+        <a class="btn oneMusic-btn m-2" href="https://www.qobuz.com/fr-fr/album/flammes-kptn/otm4ayq4kzlbc" target="_blank">Qobuz</a>
+        <a class="btn oneMusic-btn m-2" href="https://open.spotify.com/album/7o5NbDQCRx6KYF9H8Gq40z" target="_blank"><i class="fa fa-spotify"></i> Spotify</a>
+        <a class="btn oneMusic-btn m-2" href="https://listen.tidal.com/album/173243876" target="_blank">Tidal</a>
+        <a class="btn oneMusic-btn m-2" href="https://music.youtube.com/playlist?list=OLAK5uy_k7sDXsP6E5knSf_iBQnqAMxOnzOVhDwvc" target="_blank"><i class="fa fa-youtube"></i> YouTube Music</a>
+        </div>
     </div>
 
     <div class="one-music-songs-area mb-70 section-padding-100-0">
