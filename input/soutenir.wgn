@@ -59,9 +59,9 @@ title: Soutenir
                                 <div class="text">
                                     <h5>Suivre KPTN sur les réseaux sociaux</h5>
                     <div class="oneMusic-buttons-area mb-100">
-                        <a href="https://framapiaf.org/@kptnfrance" class="btn oneMusic-btn m-2" target="_blank">Mastodon <i class="fa fa-angle-double-right"></i></a>
-                        <a href="https://www.facebook.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank">Facebook <i class="fa fa-angle-double-right"></i></a>
-                        <a href="https://www.twitter.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank">Twitter <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://framapiaf.org/@kptnfrance" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-mastodon"></i> Mastodon <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.facebook.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-facebook"></i> Facebook <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://www.twitter.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-twitter"></i> Twitter <i class="fa fa-angle-double-right"></i></a>
                     </div> 
                                 </div>
                             </div>
@@ -76,11 +76,11 @@ title: Soutenir
                                 <div class="text">
                                     <h5>Écouter KPTN sur les sites musicaux</h5>
                     <div class="oneMusic-buttons-area mb-100">
-                        <a href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703" class="btn oneMusic-btn m-2" target="_blank">Dogmazic <i class="fa fa-angle-double-right"></i></a>
-                        <a href="https://soundcloud.com/k_p_t_n" class="btn oneMusic-btn m-2" target="_blank">SoundCloud <i class="fa fa-angle-double-right"></i></a>
+                        <a href="http://play.dogmazic.net/browse.php?action=artist#artists.php?action=show&artist=6703" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-dogmazic"></i> Dogmazic <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://soundcloud.com/k_p_t_n" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-soundcloud"></i> SoundCloud <i class="fa fa-angle-double-right"></i></a>
                         <a href="https://www.jamendo.com/artist/463782/kptn" class="btn oneMusic-btn m-2" target="_blank">Jamendo <i class="fa fa-angle-double-right"></i></a>
                         <a href="https://www.deezer.com/fr/artist/123903082" class="btn oneMusic-btn m-2" target="_blank">Deezer <i class="fa fa-angle-double-right"></i></a>
-                        <a href="https://open.spotify.com/artist/52844kVp7kN6f3DlW0wZKx" class="btn oneMusic-btn m-2" target="_blank">Spotify <i class="fa fa-angle-double-right"></i></a>
+                        <a href="https://open.spotify.com/artist/52844kVp7kN6f3DlW0wZKx" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-spotify"></i> Spotify <i class="fa fa-angle-double-right"></i></a>
                     </div> 
                                 </div>
                             </div>
