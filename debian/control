@@ -1,0 +1,10 @@
+Source: kptn-flammes
+Section: sound
+Priority: extra
+Maintainer: KPTN <contact@kptn.org>
+Homepage: https://kptn.org
+
+Package: kptn-flammes
+Recommends: sox, libsox-fmt-all
+Architecture: all
+Description: Flammes is the first album of KPTN
