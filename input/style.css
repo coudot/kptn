@@ -17,7 +17,7 @@
 
 body {
   font-family: "Archivo Narrow", sans-serif;
-  font-size: 14px; }
+  font-size: 16px; }
 
 h1,
 h2,
@@ -33,7 +33,7 @@ h6 {
 p {
   font-family: "Archivo Narrow", sans-serif;
   color: #5f5f5f;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 2;
   font-weight: 400; }
 
@@ -59,6 +59,14 @@ ol {
 img {
   height: auto;
   max-width: 100%; }
+
+pre.term {
+  background: #333;
+  color: #eee;
+  padding: 10px;
+  border: 2px #aaa solid;
+  border-left-width: 10px;
+}
 
 /* :: 3.1.0 Spacing */
 .mt-15 {

@@ -1,0 +1,39 @@
+title: Fl4mm3s
+og_image: images/kptn_flammes_debian_320px.png
+og_description: Installation de l'album Flammes sur Debian
+----
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/kptn_flammes_debian_640px.png);">
+        <div class="bradcumbContent">
+            <p>Geek alert</p>
+            <h2><!-- tmpl_var name="title" --></h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
+
+
+    <!-- ##### Song Area Start ##### -->
+    <section class="mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
+
+    <div class="text-center section-padding-100-0 mb-70">
+        <img src="images/kptn_flammes_debian_320px.png" />
+    </div>
+
+    <div class="container section-padding-100-0i mb-70">
+      <h2 class="text-center"><!-- tmpl_var name="og_description" --></h2>
+      <p class="text-center">Comment installer l'album Flammes de KPTN sur votre distribution Debian et lancer sa lecture, tout ça en ligne de commande !</p>
+      <p>Récupérer la clé GPG :</p>
+      <pre class="term">wget -q -O - https://kptn.org/download/kptn.gpg | sudo apt-key add -</pre>
+      <p>Déclarer le dépôt :</p>
+      <pre class="term">echo "deb https://kptn.org/deb kptn main" | sudo tee /etc/apt/sources.list.d/kptn.list</pre>
+      <p>Mettre à jour :</p>
+      <pre class="term">sudo apt update</pre>
+      <p>Installer l'album :</p>
+      <pre class="term">sudo apt install kptn-flammes</pre>
+      <p>Lancer la lecture en console :</p>
+      <pre class="term">play /usr/share/music/kptn/flammes/flammes.m3u</pre>
+      <p>Il est aussi possible de lancer la lecture dans VLC :</p>
+      <pre class="term">vlc /usr/share/music/kptn/flammes/flammes.m3u</pre>
+    </div>
+
+    
