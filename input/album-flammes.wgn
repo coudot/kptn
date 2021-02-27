@@ -24,7 +24,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
         <div class="oneMusic-buttons-area">
         <a class="btn oneMusic-btn m-2" href="https://music.amazon.fr/albums/B08WHDN8HV" target="_blank"><i class="fa fa-amazon" aria-hidden="true"></i> Amazon Music</a>
         <a class="btn oneMusic-btn m-2" href="https://music.apple.com/fr/album/flammes/1553484436" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i> Apple Music</a>
-        <a class="btn oneMusic-btn m-2" href="album-flammes-debian.html"><i class="fa fa-debian"></i> Debian</a>
+        <a class="btn oneMusic-btn m-2" href="debian-kptn-flammes.html"><i class="fa fa-debian"></i> Debian</a>
         <a class="btn oneMusic-btn m-2" href="https://www.deezer.com/fr/album/207019212" target="_blank">Deezer</a>
         <a class="btn oneMusic-btn m-2" href="https://play.dogmazic.net/#albums.php?action=show&album=10456" target="_blank"><i class="fa fa-dogmazic" aria-hidden="true"></i> Dogmazic</a>
         <a class="btn oneMusic-btn m-2" href="https://open.qobuz.com/album/otm4ayq4kzlbc?lf=3a1656b9e39fb1b130549ec6b4fb9f8d" target="_blank">Qobuz</a>

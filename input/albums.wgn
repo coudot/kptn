@@ -20,16 +20,16 @@ album_flammes: file_glob("album-flammes-*.wgn")
 
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
+                        <div class="song-thumbnail-160">
                             <a href="album-flammes.html">
                             <img src="images/kptn_flammes_cover_320px.png" alt="Flammes">
                             </a>
                         </div>
                     
                     <div class="elements-title">
-                        <h2>2021 | Flammes</h2>
-                        <p>Premier album officiel.</p>
-                        <a href="album-flammes.html">Découvrir l'album</a>
+                        <h2>2021 <i class="fa fa-fire"></i> Flammes</h2>
+                        <p><i class="fa fa-info-circle"></i> Premier album officiel</p>
+                        <a href="album-flammes.html" class="btn oneMusic-btn m-2">Découvrir l'album <i class="fa fa-angle-double-right"></i></a>
                     </div>
                     </div>
                 </div>
@@ -45,16 +45,16 @@ album_flammes: file_glob("album-flammes-*.wgn")
 
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
+                        <div class="song-thumbnail-160">
                             <a href="album-ukubebe.html">
                             <img src="images/kptn_ukubebe_cover_320px.png" alt="Ukubébé">
                             </a>
                         </div>
                     
                     <div class="elements-title">
-                        <h2>2020 | Ukubébé</h2>
-                        <p>Des musiques au Ukulélé pour les bébés (et leurs ainés).</p>
-                        <a href="album-ukubebe.html">Découvrir les musiques</a>
+                        <h2>2020 <i class="fa fa-child"></i> Ukubébé</h2>
+                        <p><i class="fa fa-info-circle"></i> Des musiques au Ukulélé pour les bébés (et leurs ainés)</p>
+                        <a href="album-ukubebe.html" class="btn oneMusic-btn m-2">Découvrir les musiques <i class="fa fa-angle-double-right"></i></a>
                     </div>
                     </div>
                 </div>
@@ -70,16 +70,16 @@ album_flammes: file_glob("album-flammes-*.wgn")
 
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
+                        <div class="song-thumbnail-160">
                             <a href="album-igloo.html">
                             <img src="images/kptn_igloo_cover_320px.png" alt="Igloo">
                             </a>
                         </div>
 
                     <div class="elements-title">
-                        <h2>???? | Igloo</h2>
-                        <p>Des chansons mises au frais en attendant un prochain album.</p>
-                        <a href="album-igloo.html">Découvrir les chansons</a>
+                        <h2><i class="fa fa-snowflake-o"></i> Igloo</h2>
+                        <p><i class="fa fa-info-circle"></i> Des chansons mises au frais en attendant un prochain album</p>
+                        <a href="album-igloo.html" class="btn oneMusic-btn m-2">Découvrir les chansons <i class="fa fa-angle-double-right"></i></a>
                     </div>
                     </div>
                 </div>
@@ -95,16 +95,16 @@ album_flammes: file_glob("album-flammes-*.wgn")
 
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
+                        <div class="song-thumbnail-160">
                             <a href="album-caverne.html">
                             <img src="images/kptn_caverne_cover_320px.png" alt="Caverne">
                             </a>
                         </div>
                     
                     <div class="elements-title">
-                        <h2>2000 | Caverne</h2>
-                        <p>Premiers pas.</p>
-                        <a href="album-caverne.html">Découvrir l'album</a>
+                        <h2>2000 <i class="fa fa-diamond"></i> Caverne</h2>
+                        <p><i class="fa fa-info-circle"></i>  Premiers enregistrements</p>
+                        <a href="album-caverne.html" class="btn oneMusic-btn m-2">Découvrir l'album <i class="fa fa-angle-double-right"></i></a>
                     </div>
                     </div>
                 </div>
