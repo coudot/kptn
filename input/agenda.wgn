@@ -22,6 +22,27 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
+                            <img src="images/lav-300x300.jpg" alt="Libre à vous !">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>02</span>
+                                <span>Mars 2021</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Libre à vous !</a>
+                            <!-- Post Excerpt -->
+                            <p>Interview dans l'émission <a href="https://www.april.org/libre-a-vous-sur-radio-cause-commune-2-mars-2021" target="_blank">Libre à vous !</a> de Cause Commune à l'occasion de la sortie de l'album <a href="album-flammes.html">Flammes</a> et diffusion de quelques titres.</p>
+                        </div>
+                    </div>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
                             <img src="images/kptn_flammes_sortie_2021_numerique_960px.png" alt="Flammes">
                             <!-- Post Date -->
                             <div class="post-date">
@@ -88,7 +109,7 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <img src="images/lav-300x300.jpg" alt="Libre à vous">
+                            <img src="images/lav-300x300.jpg" alt="Libre à vous !">
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>15</span>
@@ -99,9 +120,9 @@ title: Agenda / Concerts
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">Libre à vous</a>
+                            <a href="#" class="post-title">Libre à vous !</a>
                             <!-- Post Excerpt -->
-                            <p>Diffusion dans l'émission "La playlist de Libre à vous" de Cause Commune (<a href="https://cause-commune.fm/podcast/02-la-playlist-de-libre-a-vous/">réécouter</a>)</p>
+                            <p>Diffusion dans l'émission "La playlist de Libre à vous !" de Cause Commune (<a href="https://cause-commune.fm/podcast/02-la-playlist-de-libre-a-vous/">réécouter</a>)</p>
                         </div>
                     </div>
 
