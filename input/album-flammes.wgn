@@ -37,6 +37,10 @@ album_flammes: file_glob("album-flammes-*.wgn")
     </div>
 
     <div class="text-center section-padding-100-0 container">
+        <a class="btn oneMusic-btn m-2" href="cd-kptn-flammes.html">Acheter le CD <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+    </div>
+
+    <div class="text-center section-padding-100-0 container">
         <h4>Album également en accès libre sur ce site</h4>
         <p><i>(Cliquer sur les prochettes pour accéder aux paroles)</i></p>
     </div>

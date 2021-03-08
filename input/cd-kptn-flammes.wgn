@@ -1,0 +1,40 @@
+title: Flammes
+og_image: images/cd_kptn_flammes_3_320px.jpg
+og_description: Acheter le CD Flammes
+----
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/cd_kptn_flammes_2_640px.jpg);">
+        <div class="bradcumbContent">
+            <p>Acheter le CD</p>
+            <h2><!-- tmpl_var name="title" --></h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
+
+
+    <!-- ##### Song Area Start ##### -->
+    <section class="mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
+
+
+    <div class="container section-padding-100-0 text-center">
+      <h2>Comment se procurer le disque</h2>
+      <ul>
+        <li>Acheter l'album sur <a href="https://kptn.bandcamp.com/album/flammes" target="_blank">BandCamp</a></li>
+        <li>Faire un don sur <a href="https://fr.tipeee.com/kptn" target="_blank">Tipee</a> en choisissant l'option "Fan des années 80"</li>
+        <li>Venir à l'un des concerts annoncés dans l'<a href="agenda.html">agenda</a></li>
+      </ul>
+      <p><i class="fa fa-warning"></i> Merci d'indiquer votre adresse postale pour recevoir votre CD&nbsp;!</p>
+    </div>
+
+    <div class="text-center section-padding-100-0 mb-70 row">
+      <div class="col-md mb-30">
+        <img src="images/cd_kptn_flammes_1_320px.jpg" />
+      </div>
+      <div class="col-md mb-30">
+        <img src="images/cd_kptn_flammes_2_320px.jpg" />
+      </div>
+      <div class="col-md mb-30">
+        <img src="images/cd_kptn_flammes_3_320px.jpg" />
+      </div>
+    </div>
+    

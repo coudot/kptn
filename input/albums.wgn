@@ -30,6 +30,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
                         <h2>2021 <i class="fa fa-fire"></i> Flammes</h2>
                         <p><i class="fa fa-info-circle"></i> Premier album officiel</p>
                         <a href="album-flammes.html" class="btn oneMusic-btn m-2">Découvrir l'album <i class="fa fa-angle-double-right"></i></a>
+                        <a href="cd-kptn-flammes.html" class="btn oneMusic-btn m-2">Acheter le CD <i class="fa fa-angle-double-right"></i></a>
                     </div>
                     </div>
                 </div>
