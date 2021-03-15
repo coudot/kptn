@@ -28,6 +28,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
         <a class="btn oneMusic-btn m-2" href="debian-kptn-flammes.html"><i class="fa fa-debian"></i> Debian</a>
         <a class="btn oneMusic-btn m-2" href="https://www.deezer.com/fr/album/207019212" target="_blank">Deezer</a>
         <a class="btn oneMusic-btn m-2" href="https://play.dogmazic.net/#albums.php?action=show&album=10456" target="_blank"><i class="fa fa-dogmazic" aria-hidden="true"></i> Dogmazic</a>
+        <a class="btn oneMusic-btn m-2" href="https://www.jamendo.com/album/200267/flammes" target="_blank">Jamendo</a>
         <a class="btn oneMusic-btn m-2" href="https://open.qobuz.com/album/otm4ayq4kzlbc?lf=3a1656b9e39fb1b130549ec6b4fb9f8d" target="_blank">Qobuz</a>
         <a class="btn oneMusic-btn m-2" href="https://open.spotify.com/album/7o5NbDQCRx6KYF9H8Gq40z" target="_blank"><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</a>
         <a class="btn oneMusic-btn m-2" href="https://soundcloud.com/k_p_t_n/sets/flammes" target="_blank"><i class="fa fa-soundcloud" aria-hidden="true"></i> SoundCloud</a>
