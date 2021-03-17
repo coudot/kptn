@@ -22,6 +22,28 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_cordee_20210316.png" alt="La Cordée">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>16</span>
+                                <span>Mars 2021</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Concert à La Cordée</a>
+                            <!-- Post Excerpt -->
+                            <p>Mini concert à <a href="https://www.la-cordee.net/" target="_blank">La Cordée</a> avec Julie et Stan de <a href="http://seven-fridays.webzep.fr/" target="_blank">7Fridays</a> pour la sortie de l'album <a href="album-flammes.html">Flammes</a>.</p>
+                        </div>
+                    </div>
+
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
                             <img src="images/lav-300x300.jpg" alt="Libre à vous !">
                             <!-- Post Date -->
                             <div class="post-date">
