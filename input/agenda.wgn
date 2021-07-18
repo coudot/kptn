@@ -22,6 +22,30 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
+                            <img src="images/kptn_banner_2021.png" alt="L'avenue est à nous">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>18</span>
+                                <span>Août 2021</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Vivez l'été - L'avenue est à vous</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert à Villeurbanne dans le cadre de L'avenue est à vous. C'est gratuit !<br />
+                            Voir l'événement et s'inscrire sur <a href="https://mobilizon.fr/events/ab7b2a59-a654-4701-a314-3ad9f19b218b" target="_blank">Mobilizon</a> ou sur <a href="https://www.facebook.com/events/200773812057037/" target="_blank">Facebook</a>.
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
                             <img src="images/photo_kptn_concert_cordee_20210316.png" alt="La Cordée">
                             <!-- Post Date -->
                             <div class="post-date">
