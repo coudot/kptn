@@ -99,6 +99,7 @@ title: Soutenir
                                 <div class="text">
                                     <h5>Autres sites</h5>
                     <div class="oneMusic-buttons-area mb-100">
+                        <a href="https://www.youtube.com/channel/UCJ6vosjZpnNLICXz82pIP-A" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-youtube"></i> YouTube <i class="fa fa-angle-double-right"></i></a>
                         <a href="https://framalibre.org/content/kptn" class="btn oneMusic-btn m-2" target="_blank">Framalibre <i class="fa fa-angle-double-right"></i></a>
                         <a href="https://musicbrainz.org/artist/0ac3884e-99f0-4022-8f21-6c76e2f78486" class="btn oneMusic-btn m-2" target="_blank">MusicBrainz <i class="fa fa-angle-double-right"></i></a>
                     </div> 
