@@ -19,9 +19,10 @@ og_description: Acheter le CD Flammes
     <div class="container section-padding-100-0 text-center">
       <h2>Comment se procurer le disque</h2>
       <ul>
+        <li>Faire un don sur <a href="https://liberapay.com/KPTN/" target="_blank">Liberapay</a></li>
         <li>Acheter l'album sur <a href="https://kptn.bandcamp.com/album/flammes" target="_blank">BandCamp</a></li>
-        <li>Faire un don sur <a href="https://fr.tipeee.com/kptn" target="_blank">Tipee</a> en choisissant l'option "Fan des années 80"</li>
-        <li>Venir à l'un des concerts annoncés dans l'<a href="agenda.html">agenda</a></li>
+        <li>Faire un don sur <a href="https://fr.tipeee.com/kptn" target="_blank">Tipeee</a> en choisissant l'option "Fan des années 80"</li>
+        <li>Venir à l'un des concerts annoncés dans l'<a href="agenda.html">agenda</a> (et vous ne payerez pas les frais d'envoi&nbsp;!)</li>
       </ul>
       <p><i class="fa fa-warning"></i> Merci d'indiquer votre adresse postale pour recevoir votre CD&nbsp;!</p>
     </div>
