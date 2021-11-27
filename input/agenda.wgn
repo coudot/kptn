@@ -22,7 +22,7 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <img src="images/kptn_banner_2021.png" alt="OpenSource Experience">
+                            <img src="images/photo_kptn_concert_osxp_20211110.png" alt="Open Source Experience">
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>10</span>
@@ -33,11 +33,33 @@ title: Agenda / Concerts
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">OpenSource Experience</a>
+                            <a href="#" class="post-title">Open Source Experience</a>
                             <!-- Post Excerpt -->
-                            <p>Mini concert lors du temps associatif de <a href="https://www.opensource-experience.com/" target="_blank">OpenSource Experience</a>.<br />
-                            Voir l'événement et s'inscrire sur <a href="https://mobilizon.fr/events/a8dc7d95-598c-49e8-b29e-fef971378d6e" target="_blank">Mobilizon</a> ou sur <a href="https://www.facebook.com/events/275634964479577/" target="_blank">Facebook</a>.
+                            <p>Mini concert lors du temps associatif de <a href="https://www.opensource-experience.com/" target="_blank">Open Source Experience</a>.<br />
+                            Voir l'événement et s'inscrire sur <a href="https://mobilizon.fr/events/a8dc7d95-598c-49e8-b29e-fef971378d6e" target="_blank">Mobilizon</a> ou sur <a href="https://www.facebook.com/events/275634964479577/" target="_blank">Facebook</a>.<br />
+                            Revoir quelques extraits du concert sur <a href="https://www.youtube.com/watch?v=2n5kKi0p2uE" target="_blank">YouTube</a>.
                             </p>
+                        </div>
+                    </div>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_lav_20211109.jpg" alt="Libre à vous !">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>09</span>
+                                <span>Novembre 2021</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Libre à vous !</a>
+                            <!-- Post Excerpt -->
+                            <p>Pause musicale en direct dans l'émission <a href="https://www.libreavous.org/121-emission-en-direct-du-salon-open-source-experience" target="_blank">Libre à vous !</a> de Cause Commune diffusée depuis l'Open Source Experience (<a href="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20211109/libre-a-vous-20211109.mp3" target="_blank">réécouter</a>).</p>
                         </div>
                     </div>
 
