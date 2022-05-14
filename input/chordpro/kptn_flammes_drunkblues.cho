@@ -1,0 +1,64 @@
+{ns}
+{artist: KPTN}
+{album: Flammes}
+{composer: Clément OUDOT}
+{lyricist: Clément OUDOT}
+{copyright: CC BY SA}
+{title: Drunk Blues}
+{subtitle: %{artist} - Album %{album}} 
+
+{define: G7 base-fret 0 frets 3 2 0 0 3 1}
+{define: F#7 base-fret 2 frets 1 3 1 2 4 1}
+{define: G7add13 base-fret 3 frets 1 3 1 2 3 1}
+
+{comment: Intro}
+{start_of_tab}
+[C7] [G7] [C7] [G7]
+[C7] [G7] [A7] [D7]
+[C7] [G7] [C7] [G7]
+[C7] [G7] [A7] [D7]
+{end_of_tab}
+
+{start_of_verse}
+[C7]L'air [G7]du matin n'é[C7]tait pas très [G7]frais
+[C7]Pas [G7]très serein voire [A7]carrément mau[D7]vais.
+[C7]Le réveil [G7]débranché, c'é[C7]tait un mauvais [G7]signe.
+[C7]Essayer de [G7]se lever à [A7]défaut d'être [D7]digne.
+{end_of_verse}
+
+{start_of_verse}
+[C7]La soi[G7]rée passée a[C7]vait bien commen[G7]cé,
+[C7]Des amis [G7]plein les bras et [A7]une robe de so[D7]irée.
+[C7]Puis des bou[G7]teilles vidées et [C7]des souvenirs trou[G7]blés.
+[C7]Elle ne savait [G7]plus comment cela [A7]s'était termi[D7]né.
+{end_of_verse}
+
+{start_of_chorus}
+[G7]Elle [F7]vit tou[E7]jours seule
+[A7]La [D7]nuit comme la jour[G7]née.[F#7][G7]
+[G7]Elle [F7]fait parfois [E7]la gueule
+[A7]Et elle [D7]boit pour oubli[G7]er.[F#7][G7] 
+[A7]Et elle [D7]boit pour oubli[G7]er.[F#7][F7] 
+{end_of_chorus}
+
+{start_of_verse}
+[C7]La tête [G7]comme une enclume, les [C7]pieds frigori[G7]fiés
+[C7]Un cachet [G7]d'aspirine dans [C7]sa tasse de ca[G7]fé.
+[C7]Elle n'était [G7]pas très fière d'ê[C7]tre dans cet é[G7]tat.
+[C7]Elle avait [G7]dit hier je ne [A7]ferai plus jamais [D7]ça !
+{end_of_verse}
+
+{start_of_verse}
+[C7]Mais voilà, [G7]c'est comme ça, elle [C7]a recommen[G7]cé.
+[C7]Quelques verres [G7]ont suffi à [A7]la faire replon[D7]ger.
+[C7]La question [G7]qu'elle se pose c'est [C7]comment renon[G7]cer,
+[C7]Éviter [G7]l'overdose, ê[A7]tre enfin libé[D7]rée.
+{end_of_verse}
+
+{start_of_chorus}
+[G7]Elle [F7]vit tou[E7]jours seule
+[A7]La [D7]nuit comme la jour[G7]née.[F#7][G7]
+[G7]Elle [F7]fait parfois [E7]la gueule
+[A7]Et elle [D7]boit pour oubli[G7]er.[F#7][G7] 
+[A7]Et elle [D7]boit pour oubli[G7]er.[F#7][G7add13] 
+{end_of_chorus}
