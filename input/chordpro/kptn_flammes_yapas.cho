@@ -1,0 +1,58 @@
+{ns}
+{artist: KPTN}
+{album: Flammes}
+{composer: Clément OUDOT}
+{lyricist: Clément OUDOT}
+{copyright: CC BY SA}
+{title: Y'a pas}
+{subtitle: %{artist} - Album %{album}} 
+
+{define: C7 base-fret 0 frets x 3 2 3 x x}
+{define: Bm7 base-fret 0 frets x 2 0 2 3 x}
+{define: D\F# base-fret 0 frets 2 0 0 2 3 x}
+
+{comment: Intro}
+{start_of_tab}
+[C7] [Bm7] [Em] [D\F#]
+{end_of_tab}
+
+{start_of_verse}
+[C7]Y'a des [Bm7]jours comme [Em]ça.[D\F#]
+[C7]Des jours où [Bm7]ça va [Em]pas.[D\F#]
+[C7]Une co[Bm7]pine qui se fait la [Em]malle
+Plus de poi[D\F#]sson dans le bocal,
+[C7]Des jours où [Bm7]tout va [Em]mal.
+{end_of_verse}
+
+{start_of_verse}
+[C7]Y'a des [Bm7]jours ça tourne plus [Em]rond.[D\F#]
+[C7]Où t'es le [Bm7]dernier des [Em]cons.[D\F#]
+[C7]Y'a plus [Bm7]rien dans le fri[Em]go,
+Plus de Mi[D\F#]ko dans le congélo,
+[C7]Et pour fi[Bm7]nir, t'as plus de bou[Em]lot.
+{end_of_verse}
+
+{start_of_bridge}
+[Asus2]Alors t'as [D]plus envie de [Em]vivre,
+[Asus2]Tu veux [D]plus mourir [Em]vieux.
+[Asus2]Tu veux vrai[D]ment en fi[Em]nir
+Avec ta [D\F#]vie de malheureux.
+[C7]Oui, mais t'es [Bm7]con parce [Em]que :
+{end_of_bridge}
+
+{start_of_chorus}
+[C7]Y'a pas d'autre [Bm7]vie après celle-[Em]là
+Y'a pas de clubs [D\F#]Med au nirvana
+[C7]Y'a pas de [Bm7]morts pour témoi[Em]gner
+Que le sui[D\F#]cide ça soulageait
+[C7]Y'a pas que des [Bm7]salauds sur [Em]Terre
+Y'en a peut-être [D\F#]aussi en enfer
+[C7]Y'a pas de [Bm7]quoi se faire du [Em]mal
+Y'a pas de [D\F#]quoi se mettre une balle
+[C7]Y'a pas de [Bm7]larmes qui [Em]durent
+Y'a que les [D\F#]traces de l'usure
+[C7]Y'a pas de re[Bm7]mède pour ta conne[Em]rie
+Mais y'a peut-être une [D\F#]chance de sauver ta vie !
+[C7]Y'a pas, [Bm7]y'a pas, [Em]Yy'a pas, [D\F#]y'a pas
+[C7]Y'a pas, [Bm7]y'a pas.[Em][D\F#]
+{end_of_chorus}
