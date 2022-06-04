@@ -1,0 +1,90 @@
+{ns}
+{artist: KPTN}
+{album: Flammes}
+{composer: Clément OUDOT}
+{lyricist: Clément OUDOT}
+{copyright: CC BY SA}
+{title: Tout à gagner}
+{subtitle: %{artist} - Album %{album}} 
+
+{define: B7\F# base-fret 0 frets 2 x 1 2 0 x}
+{define: B7\A base-fret 0 frets x 0 1 2 0 x}
+{define: Cmaj7add13+ base-fret 0 frets x 3 2 3 0 3}
+{define: Am7 base-fret 5 frets 1 x 1 1 1 x}
+{define: D9 base-fret 3 frets 0 3 2 3 3 x}
+{define: Gmaj7 base-fret 3 frets 1 x 2 2 1 x}
+{define: Cmaj7add9 base-fret 0 frets x 3 2 4 3 x}
+{define: F#7/5+ base-fret 0 frets 2 x 2 3 3 x}
+{define: B9+ base-fret 0 frets x 2 1 2 3 x}
+{define: E7 base-fret 0 frets 0 2 0 1 3 x}
+
+{comment: Intro}
+{start_of_tab}
+[Em] [B7\F#] [G] [B7\A]
+[Em] [B7\F#] [G] [B7\A]
+[C] [B7]
+[C] [Cmaj7add13+] [B7]
+{end_of_tab}
+
+{start_of_verse}
+[Em]Chez moi l'ar[B7\F#]gent ne fait pas le bo[G]nheur[B7\A]
+[Em]L'or me met de [B7\F#]bien meil[G]leure hu[B7\A]meur
+[C]Je ne laisse rien au ha[B7]sard
+Pas le [C]moindre petit [Cmaj7add13+]pour[B7]boire
+{end_of_verse}
+
+{start_of_verse}
+[Em]Je suis de la [B7\F#]race des profi[G]teurs[B7\A]
+[Em]D'une mère can[B7\F#]tile [G]fier succes[B7\A]seur
+[C]Qui a fait de moi un homme d'a[B7]ctions
+Négo[C]ciées à la sueur [Cmaj7add13+]de mes [B7]fonds
+{end_of_verse}
+
+{start_of_chorus}
+[Am7]Pour moi la [D9]vie a épar[Gmaj7]gné[Cmaj7add9]
+Les [F#7/5+]dettes, les fail[B9+]lites et les im[Em]payés[E7]
+[Am7]Allon[D9]gé sur mon lit de [Gmaj7]billets[Cmaj7add9]
+Je crois [F#7/5+]bien[B9+] que j'ai tout à [Em]gagner[B7\F#] [G] [B7\A]
+{end_of_chorus} 
+
+{start_of_verse}
+[Em]Mon père vou[B7\F#]lait me faire patri[G]moine[B7\A]
+[Em]Pour que j'aille au [B7\F#]para[G]dis fis[B7\A]cal
+[C]Siéger au conseil d'admi[B7]nistration
+[C]Et racheter les parts [Cmaj7add13+]du pa[B7]tron
+{end_of_verse}
+
+{start_of_verse}
+[Em]Oui mais moi j'a[B7\F#]vais d'autres [G]projets[B7\A]
+[Em]Rouler [B7\F#]sur l'or, [G]tout po[B7\A]sséder
+[C]Faire contre bon cœur for[B7]tune
+Hur[C]ler à décro[Cmaj7add13+]cher la [B7]thune
+{end_of_verse}
+
+{start_of_chorus}
+[Am7]A[D9]vare de senti[Gmaj7]ments[Cmaj7add9]
+J'ai ven[F#7/5+]du mon âme [B9+]sans faire de vire[Em]ment[E7]
+[Am7]Per[D9]sonne ne peut me [Gmaj7]liquider[Cmaj7add9]
+Je crois [F#7/5+]bien[B9+] que j'ai tout à [Em]gagner[B7\F#] [G] [B7\A]
+{end_of_chorus}
+
+{start_of_verse}
+[Em]Sous mes [B7\F#]faux airs de [G]faussaire[B7\A]
+[Em]J'enlève les [B7\F#]taches [G]de l'argent [B7\A]sale
+[C]Les hommes véreux me vé[B7]nèrent
+Ils ont pour [C]moi un intérêt [Cmaj7add13+]capi[B7]tal
+{end_of_verse}
+
+{start_of_verse}
+[Em]Je gère les [B7\F#]offres et les de[G]mandes[B7\A]
+[Em]J'ai dans mes [B7\F#]coffres [G]tout l'or du [B7\A]monde
+[C]J'ai investi tous les mar[B7]chés
+C'est eux qui [C]sèment et moi qui récol[Cmaj7add13+]te le [B7]blé
+{end_of_verse}
+
+{start_of_chorus}
+[Am7]Ma vie [D9]est côtée en [Gmaj7]bourse[Cmaj7add9]
+Mes or[F#7/5+]ganes[B9+] plus chers que la Grande [Em]Ourse[E7]
+[Am7]J'ai même [D9]fait produire un hé[Gmaj7]ritier[Cmaj7add9]
+Je crois [F#7/5+]bien[B9+] qu'il tout à [Em]gagner[B7\F#] [G] [B7\A]
+{end_of_chorus}
