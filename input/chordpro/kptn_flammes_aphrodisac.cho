@@ -1,0 +1,82 @@
+{ns}
+{artist: KPTN}
+{album: Flammes}
+{composer: Clément OUDOT}
+{lyricist: Clément OUDOT}
+{copyright: CC BY SA}
+{title: Aprhodisac}
+{subtitle: %{artist} - Album %{album}} 
+
+{define: Em7 base-fret 7 frets x 1 3 1 2 1}
+{define: Bm7 base-fret 7 frets 1 3 1 1 1 1}
+{define: Am7 base-fret 5 frets 1 3 1 1 1 1}
+{define: B7 base-fret 7 frets 1 3 1 2 3 1}
+{define: G7 base-fret 3 frets 1 3 1 2 3 1}
+{define: E7 base-fret 7 frets x 1 3 1 3 1}
+{define: F#7 base-fret 2 frets 1 3 1 2 3 1}
+
+{comment: Intro}
+{start_of_tab}
+[Em7] [Bm7] [Am7] [B7] 
+[Em7] [Bm7] [Am7] [B7] 
+{end_of_tab}
+
+{start_of_verse}
+[Em7]J'ai [Bm7]fait le tour du [Am7]monde[B7]
+[Em7]Accroché [Bm7]à tes [Am7]bras[B7]
+[Em7]Enla[Bm7]çant [Am7]tes é[B7]paules
+[Em7]Ma peau tout [Bm7]contre [Am7]toi[B7]
+[Em7]J'ai [Bm7]gardé tes [Am7]secrets[B7]
+[Em7]Parfois lourds [Bm7]à por[Am7]ter[B7]
+[Em7]Tes clés, [Bm7]ton télé[Am7]phone[B7]
+[Em7]L'adresse de [Bm7]tous ces [Am7]hommes[B7]
+{end_of_verse}
+
+{start_of_chorus}
+[Am7]Je m'accroche à ton [G7]corps
+Et [B7]quand tu me re[Em7]mar[E7]ques
+[Am7]Je suis un chercheur [G7]d'or
+Pris [F#7]la main dans le [B7]sac
+Dans le [Em7]sac[Bm7] [Am7] [B7]
+Aphrodi[Em7]sac[Bm7] [Am7] [B7]
+{end_of_chorus}
+
+{start_of_verse}
+[Em7]Je [Bm7]n'ai jamais rien [Am7]dit[B7]
+[Em7]Quand tu m'as [Bm7]fait les [Am7]poches[B7]
+[Em7]Je n'ai [Bm7]pas [Am7]d'inter[B7]dit
+[Em7]Tant que nous [Bm7]restons [Am7]proches[B7]
+[Em7]Tu sais je [Bm7]suis assez [Am7]ouvert[B7]
+[Em7]J'aime les liens [Bm7]et le [Am7]cuir[B7]
+[Em7]Les ferme[Bm7]tures é[Am7]clair[B7]
+[Em7]Tout ce qui te [Bm7]fait plai[Am7]sir[B7]
+{end_of_verse}
+
+{start_of_chorus}
+[Am7]Je crois que je re[G7]doute
+Qu'un [B7]jour tu ne me [Em7]pla[E7]ques
+[Am7]Que notre longue [G7]route
+Fi[F#7]nisse en cul-de-[B7]sac
+En cul-de-[Em7]sac[Bm7] [Am7] [B7]
+Aphrodi[Em7]sac[Bm7] [Am7] [B7]
+{end_of_chorus}
+
+{start_of_verse}
+[Em7]Je vois [Bm7]que tu caches [Am7]ton âge[B7]
+[Em7]Avec tes [Bm7]produits de [Am7]beauté[B7]
+[Em7]Moi, je [Bm7]garde [Am7]ton maqui[B7]llage
+[Em7]Dans mes re[Bm7]coins se[Am7]crets[B7]
+[Em7]Tu m'as [Bm7]passé à [Am7]tabac[B7]
+[Em7]Je n'ai pas [Bm7]oubli[Am7]é[B7]
+[Em7]Je sens en[Bm7]core tes [Am7]doigts[B7]
+[Em7]Attraper [Bm7]mes poi[Am7]gnées[B7]
+{end_of_verse}
+
+{start_of_chorus}
+[Am7]À t'attendre sous la [G7]pluie
+Tu [B7]sais parfois je [Em7]cra[E7]que
+[Am7]Je t'ai confié ma [G7]vie
+Mais [F#7]tu l'as mise à [B7]sac
+Mise à [Em7]sac[Bm7] [Am7] [B7]
+Aphrodi[Em7]sac[Bm7] [Am7] [B7]
+{end_of_chorus}
