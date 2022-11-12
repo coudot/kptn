@@ -22,7 +22,55 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <img src="images/kptn_banner_2021.png" alt="Fête de la Musique">
+                            <img src="images/kptn_banner_2021.png" alt="Campus du Libre">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>26</span>
+                                <span>Novembre 2022</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Campus du Libre</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors du <a href="https://www.campus-du-libre.org/" target="_blank">Campus du Libre</a><br />
+                            Voir l'événement sur <a href="https://mobilizon.fr/events/86c88a1b-d946-4fff-8e4b-bb75f20d1440" target="_blank">Mobilizon</a> ou sur <a href="https://www.facebook.com/events/686074702737758/" target="_blank">Facebook</a>.<br />
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_osxp_20221109.jpg" alt="Open Source Experience">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>09</span>
+                                <span>Novembre 2022</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Open Source Experience</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors de l'Open Source Experience organisé par les associations du Libre&nbsp;: APRIL, LinuxFR.org et Framasoft.<br />
+                            Voir l'événement sur <a href="https://mobilizon.fr/events/397e75c1-6038-4f36-8a2f-a630815a267d" target="_blank">Mobilizon</a> ou sur <a href="https://www.facebook.com/events/615570487017817" target="_blank">Facebook</a>.<br />
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_fdlm_20220621.jpg" alt="Fête de la Musique">
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>21</span>
@@ -47,7 +95,7 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <img src="images/kptn_banner_2021.png" alt="JDLL">
+                            <img src="images/photo_kptn_concert_jdll_20220402.jpg" alt="JDLL">
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>2</span>
