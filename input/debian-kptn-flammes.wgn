@@ -23,9 +23,9 @@ og_description: Installation de l'album Flammes sur Debian
       <h2 class="text-center"><!-- tmpl_var name="og_description" --></h2>
       <p class="text-center">Comment installer l'album Flammes de KPTN sur votre distribution Debian et lancer sa lecture, tout ça en ligne de commande !</p>
       <p>Récupérer la clé GPG :</p>
-      <pre class="term">wget -q -O - https://kptn.org/download/kptn.gpg | sudo apt-key add -</pre>
+      <pre class="term">curl https://kptn.org/download/kptn.gpg | gpg --dearmor > /usr/share/keyrings/kptn-archive-keyring.gpg</pre>
       <p>Déclarer le dépôt :</p>
-      <pre class="term">echo "deb https://kptn.org/deb kptn main" | sudo tee /etc/apt/sources.list.d/kptn.list</pre>
+      <pre class="term">echo "deb [arch=amd64 signed-by=/usr/share/keyrings/kptn-archive-keyring.gpg] https://kptn.org/deb kptn main" | sudo tee /etc/apt/sources.list.d/kptn.list</pre>
       <p>Mettre à jour :</p>
       <pre class="term">sudo apt update</pre>
       <p>Installer l'album :</p>
