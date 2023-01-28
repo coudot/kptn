@@ -15,10 +15,6 @@ album_flammes: file_glob("album-flammes-*.wgn")
     <!-- ##### Song Area Start ##### -->
     <section class="mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
 
-    <div class="text-center section-padding-100-0">
-        <iframe src="https://imusiciandigital.lnk.to/Ev39lJXB//widget?size=320x320" allowtransparency="true" scrolling="no" frameborder="0" height=320px"></iframe>
-    </div>
-
     <div class="text-center section-padding-100-0 container">
         <h4>Album disponible sur les sites/applications suivants :</h4>
         <div class="oneMusic-buttons-area">
