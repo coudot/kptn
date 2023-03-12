@@ -22,7 +22,7 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <img src="images/kptn_banner_2021.png" alt="JDLL">
+                            <img src="images/JDLL2023_KPTN_Mobilizon_820x312.png" alt="JDLL">
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>1</span>
@@ -36,7 +36,8 @@ title: Agenda / Concerts
                             <a href="#" class="post-title">JDLL</a>
                             <!-- Post Excerpt -->
                             <p>Concert lors des <a href="https://jdll.org" target="_blank">Journées du Logiciel Libre</a> à Lyon.<br />
-                            Début du concert à 17h !
+                            Début du concert à 17h !<br />
+                            Voir l'événement sur <a href="https://mobilizon.fr/events/63660c97-8b24-4dae-a8ad-8175fc6d0221" target="_blank">Mobilizon</a>, sur <a href="https://www.agendadulibre.org/events/26974" target="_blank">l'agenda du libre</a> ou sur <a href="https://www.facebook.com/events/1704876643248861" target="_blank">Facebook</a>.
                             </p>
                         </div>
                     </div>
