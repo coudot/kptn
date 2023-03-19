@@ -1,0 +1,119 @@
+{ns}
+{artist: KPTN}
+{composer: Clément OUDOT}
+{lyricist: Clément OUDOT}
+{copyright: CC BY SA}
+{title: Quarantaine}
+{subtitle: %{artist}} 
+
+{define: E frets 0 2 2 1 0 0}
+{define: Abm base-fret 4 frets 1 3 3 1 1 1}
+{define: Abm7 base-fret 4 frets 1 3 1 1 1 1}
+{define: A base-fret 5 frets 1 3 3 2 1 1}
+{define: Bb base-fret 6 frets 1 3 3 2 1 1}
+{define: B base-fret 7 frets 1 3 3 2 1 1}
+{define: F#m base-fret 2 frets 1 3 3 1 1 1}
+{define: Am7 base-fret 5 frets 1 3 1 1 1 1}
+{define: D#m base-fret 4 frets x 1 3 3 2 0}
+{define: Abmsus5 base-fret 4 frets x 3 3 1 0 0}
+{define: Aadd9 base-fret 5 frets x 3 3 2 0 0}
+{define: F#7m11 base-fret 2 frets x 3 3 1 0 0}
+{define: Bsus4 base-fret 2 frets x 1 3 3 0 0}
+{define: Asus2 frets x 0 2 2 0 0}
+
+{comment: Intro}
+{start_of_tab}
+[E] [Abm] [Abm7] [A]
+[E] [Abm] [Abm7] [A]
+[E] [Abm] [Abm7] [A]
+[B] [B] [Bb] [A]
+{end_of_tab}
+
+{start_of_verse}
+[E] [Abm]J'ai[Abm7]merais [A]tant
+[E]Avoir en[Abm]core [Abm7]10 [A]ans
+[E]M’écha[Abm]pper dans [A]la cour de ré[F#m]cré
+[Am7]À peine la cloche sonnée[B]
+{end_of_verse}
+
+{start_of_verse}
+[E]Les [Abm]yeux [Abm7]ri[A]vés
+[E]Aux six chaînes [Abm]de [Abm7]té[A]lé
+[E]Sans oubli[Abm]er les cassettes [A]à rembobi[F#m]ner
+[Am7]Et mes premiers CD[B]
+{end_of_verse}
+
+{start_of_chorus}
+Oui mais les a[F#m]nnées [A] m’en[E]traînent
+Dans une course que [F#m] rien [A] ne [E]freine
+La vie se sou[F#m]cie [A] à [E]peine
+D’é[B]pargner l’âge du ca[Bb]pi[A]taine
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+{end_of_chorus}
+
+{start_of_verse}
+[E] [Abm]J’ai[Abm7]merais [A]tant
+[E] Avoir en[Abm]core [Abm7]20 [A]ans
+[E]Sentir sou[Abm]ffler un [A]vent de liber[F#m]té
+[Am7]Se laisser déri[B]ver
+{end_of_verse}
+
+{start_of_verse}
+[E] Sor[Abm]tir [Abm7]fière[A]ment
+[E] Sa carte [Abm]d’é[Abm7]tu[A]diant
+[E] Dans les soi[Abm]rées dan[A]ser sans s’arrê[F#m]ter
+[Am7]Voir le soleil se le[B]ver
+{end_of_verse}
+
+{start_of_chorus}
+Oui mais les a[F#m]nnées [A] m’en[E]traînent
+Dans une course que [F#m] rien [A] ne [E]freine
+La vie se sou[F#m]cie [A] à [E]peine
+D’é[B]pargner l’âge du ca[Bb]pi[A]taine
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+{end_of_chorus}
+
+{start_of_verse}
+[E] [Abm]J’ai[Abm7]merais [A]tant
+[E] Avoir en[Abm]core [Abm7]30 [A]ans
+[E] Goûter aux [Abm]joies de [A]la paterni[F#m]té
+[Am7]Voir sa vie chambou[B]lée
+{end_of_verse}
+
+{start_of_verse}
+[E] A[Abm]voir [Abm7]la [A]force
+[E] Et le tem[Abm]pé[Abm7]ra[A]ment
+[E] D’être à la [Abm]fois a[A]mi, amant, pa[F#m]rent
+[Am7]Profiter du mo[B]ment
+{end_of_verse}
+
+{start_of_chorus}
+Oui mais les a[F#m]nnées [A] m’en[E]traînent
+Dans une course que [F#m] rien [A] ne [E]freine
+La vie se sou[F#m]cie [A] à [E]peine
+D’é[B]pargner l’âge du ca[Bb]pi[A]taine (je suis en quarantaine)
+D’é[B]pargner l’âge du ca[Bb]pi[A]taine (je suis en quarantaine)
+D’é[B]pargner l’âge du ca[Bb]pi[A]taine
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+Je suis en quarantaine[E] [Abm] [Abm7] [A]
+{end_of_chorus}
+
+{start_of_bridge}
+[D#m] Mais faut pas re[Abmsus5]garder en ar[Aadd9]rière
+[D#m] 40 ans à [Abmsus5]boire c’est pas la [Aadd9]mer
+[F#7m11] Avec mes cheveux blancs et mon drôle [Bsus4]d’air
+[D#m] Je dois dire que [Bsus4]finalement j’en suis [Asus2]fier [Bsus4]
+{end_of_bridge}
+
+{start_of_chorus}
+D’avoir la quarantaine[E] [Abm] [Abm7] [A]
+D’avoir la quarantaine[E] [Abm] [Abm7] [A]
+D’avoir la quarantaine[E] [Abm] [Abm7] [A]
+D’avoir la quarantaine[E] [Abm] [Abm7] [A]
+{end_of_chorus}
