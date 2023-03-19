@@ -39,6 +39,23 @@ og_description: Découvrez l'album Igloo
                     </div>
                 </div>
 
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <a href="toutletemps.html" title="Voir les paroles de Tout le temps"><img src="images/kptn_igloo_cover_320px.png" alt="Tout le temps"></a>
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Tout le temps</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
