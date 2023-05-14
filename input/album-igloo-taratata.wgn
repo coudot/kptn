@@ -5,6 +5,8 @@ og_image: images/kptn_igloo_cover_320px.png
 og_description: Découvrez la chanson Taratata
 logo: images/kptn_igloo_cover_640px.png
 download: download/igloo/taratata.mp3
+chordpro: chordpro/kptn_taratata.cho
+partition: partitions/kptn_taratata.pdf
 ----
 
 <!-- tmpl_include name="chanson_head.inc"-->
