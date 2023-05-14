@@ -33,13 +33,11 @@ album_igloo: file_glob("album-igloo-*.wgn")
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p><!-- tmpl_var name="__counter__" -->. <!-- tmpl_var name="title" --></p>
+                                <p><!-- tmpl_var name="title" --></p>
                             </div>
-                            <!-- tmpl_if name="download" -->
                             <audio preload="none" controls>
                                 <source src="<!-- tmpl_var name="download" -->">
                             </audio>
-                            <!-- /tmpl_if -->
                         </div>
                     </div>
                 </div>

@@ -1,0 +1,58 @@
+title: Taratata
+link: album-igloo-taratata.html
+cover: images/kptn_igloo_cover_640px.png
+og_image: images/kptn_igloo_cover_320px.png
+og_description: Découvrez la chanson Taratata
+logo: images/kptn_igloo_cover_640px.png
+download: download/igloo/taratata.mp3
+----
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<blockquote>
+<p>
+Je rêve de paillettes, de bijoux<br />
+D’une veste en cuir avec des clous<br />
+Je brille dans la nuit<br />
+J’imagine les néons et les spots<br />
+Dans le public y’aura mes potes<br />
+Et ma mère, aussi<br />
+Quand Nagui racontera ma vie<br />
+Je jouerai bien la nostalgie<br />
+Ce sera troublant<br />
+Faudrait de la chance et du talent<br />
+Pour entrer dans la cour des grands<br />
+<br />
+Je veux aller à Taratata<br />
+Jouer de la guitare en tutu<br />
+Et montrer mes plus beaux tatous<br />
+Pour être une star et faire l’actu<br />
+Tu sais moi je suis prêt à tout<br />
+<br />
+La lumière glissera sur ma peau<br />
+Je traverserai le plateau<br />
+Ce sera joli<br />
+Je demanderai à Pullicino <br />
+De faire un gros plan sur mon dos<br />
+Et sur ma mère, aussi<br />
+Quand Nagui fera son interview<br />
+Je ferai semblant d’être un peu fou<br />
+Ce sera marrant<br />
+Faudrait de la chance et du talent<br />
+Pour entrer dans la cour des grands<br />
+<br />
+Je veux aller à Taratata<br />
+Je piquerai un costard à tonton<br />
+Le kit de couture à tata<br />
+Pour mettre un pied dans l’émission<br />
+Je pourrai faire n’importe quoi<br />
+<br />
+Si jamais la production m’entend<br />
+Qu’elle contacte tout de suite mon agent<br />
+Sur le prix, il ne sera pas méchant<br />
+Ma mère ne parle jamais d’argent<br />
+</p>
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA / 2023</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->

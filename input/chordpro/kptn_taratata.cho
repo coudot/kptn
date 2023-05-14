@@ -1,0 +1,80 @@
+{ns}
+{artist: KPTN}
+{composer: Clément OUDOT}
+{lyricist: Clément OUDOT}
+{copyright: CC BY SA}
+{title: Taratata}
+{subtitle: %{artist}} 
+{tempo: 115}
+
+{define: Am7 base-fret 5 frets 1 3 1 1 1 1}
+{define: Dm7 base-fret 5 frets x 1 3 1 2 1}
+{define: Dm7bis base-fret 5 frets x 1 3 1 2 4}
+{define: Dm9 base-fret 3 frets x 3 1 3 3 x}
+{define: E base-fret 0 frets 0 2 2 1 0 0}
+{define: Em7 base-fret 7 frets x 1 3 1 2 1}
+{define: Em7bis base-fret 7 frets x 1 3 1 2 4}
+{define: Em7ter base-fret 5 frets x 3 1 3 4 x}
+{define: E7add9+ base-fret 5 frets x 3 2 3 4 x}
+{define: F base-fret 1 frets 1 3 3 2 1 1}
+{define: G base-fret 3 frets 1 3 3 2 1 1}
+
+{comment: Intro}
+{start_of_tab}
+[Am7] [Am7] [Em7] [Dm7]
+[Am7] [Am7] [Em7bis] [Dm7bis]
+[Am7] [Am7] [Em7] [Dm7]
+[Dm9] [Dm9] [Em7ter] [E7add9+]
+[Am7]
+{end_of_tab}
+
+{start_of_verse}
+Je rêve de [Am7]paillettes, de bijoux
+D’une veste en [G]cuir avec des clous
+Je brille dans la [Dm7]nuit
+J’imagine les [Am7]néons et les spots
+Dans le pu[G]blic y’aura mes potes
+Et ma mère, [Dm7]aussi
+Quand Nagui [F]racontera ma vie
+Je jouerai [E]bien la nostalgie
+Ce sera [Am7]troublant [G]
+Faudrait de la [F]chance et du talent
+Pour entrer [G]dans la cour des grands
+{end_of_verse}
+
+{start_of_chorus}
+Je veux aller [Am7]à [Em7][Dm7] Tarata[Am7]ta [Em7bis][Dm7bis]
+Jouer de la [Am7]guitare en tutu
+Et montrer [Em7]mes plus beaux ta[Dm7]tous
+Pour être une [Dm9]star et faire l’actu
+Tu sais moi [Em7ter]je suis [E7add9+]prêt à [Am7]tout
+{end_of_chorus}
+
+{start_of_verse}
+La lumière [Am7]glissera sur ma peau
+Je traver[G]serai le plateau
+Ce sera [Dm7]joli
+Je demanderai [Am7]à Pullicino
+De faire un [G]gros plan sur mon dos
+Et sur ma mère, [Dm7]aussi
+Quand Nagui [F]fera son interview
+Je ferai sem[E]blant d’être un peu fou
+Ce sera [Am7]marrant [G]
+Faudrait de la [F]chance et du talent
+Pour entrer [G]dans la cour des grands
+{end_of_verse}
+
+{start_of_chorus}
+Je veux aller [Am7]à [Em7][Dm7] Tarata[Am7]ta [Em7bis][Dm7bis]
+Je piquerai un [Am7]costard à tonton
+Le kit de [Em7]couture à ta[Dm7]ta
+Pour mettre un [Dm9]pied dans l’émission
+Je pourrai [Em7ter]faire n’im[E7add9+]porte [Am7]quoi
+{end_of_chorus}
+
+{start_of_bridge}
+[Em7] Si jamais la [Dm7]production m’en[Am7]tend
+[Em7] Qu’elle contacte [Dm7]tout de suite mon a[Am7]gent
+[Em7]Sur le prix, il ne [Em7]sera pas mé[Dm7]chant
+[F]Ma mère ne [G]parle jamais d’ar[Am7]gent
+{end_of_bridge}
