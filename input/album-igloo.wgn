@@ -1,6 +1,7 @@
 title: Igloo
 og_image: images/kptn_iglooe_cover_320px.png
 og_description: Découvrez l'album Igloo
+album_igloo: file_glob("album-igloo-*.wgn")
 ----
     <!-- ##### Breadcumb Area Start ##### -->
     <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/kptn_igloo_cover_640px.png);">
@@ -16,49 +17,38 @@ og_description: Découvrez l'album Igloo
 
     <div class="text-center section-padding-100-0">
         <img src="images/kptn_igloo_cover_320px.png" />
+        <p>Des chansons mises au frais en attendant un prochain album</p>
     </div>
 
     <div class="one-music-songs-area mb-70 section-padding-100-0">
         <div class="container">
             <div class="row">
 
+        <!-- tmpl_loop name="album_igloo" -->
                 <!-- Single Song Area -->
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <a href="quarantaine.html" title="Voir les paroles de Quarantaine"><img src="images/kptn_quarantaine_cover_320px.png" alt="Quarantaine"></a>
+                            <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="og_image" -->" alt="<!-- tmpl_var name="title" -->"></a>
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Quarantaine</p>
+                                <p><!-- tmpl_var name="__counter__" -->. <!-- tmpl_var name="title" --></p>
                             </div>
+                            <!-- tmpl_if name="download" -->
                             <audio preload="none" controls>
-                                <source src="download/igloo/quarantaine.mp3">
+                                <source src="<!-- tmpl_var name="download" -->">
                             </audio>
+                            <!-- /tmpl_if -->
                         </div>
                     </div>
                 </div>
-
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <a href="toutletemps.html" title="Voir les paroles de Tout le temps"><img src="images/kptn_igloo_cover_320px.png" alt="Tout le temps"></a>
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Tout le temps</p>
-                            </div>
-                            <audio preload="none" controls>
-                                <source src="">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
+        <!-- /tmpl_loop -->
 
             </div>
         </div>
     </div>
+
     <!-- ##### Song Area End ##### -->
     </section>
 
