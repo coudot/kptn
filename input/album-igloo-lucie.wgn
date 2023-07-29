@@ -1,0 +1,57 @@
+title: Lucie
+link: album-igloo-lucie.html
+cover: images/kptn_igloo_cover_640px.png
+og_image: images/kptn_igloo_cover_320px.png
+og_description: Découvrez la chanson "Lucie"
+logo: images/kptn_igloo_cover_640px.png
+----
+
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<blockquote>
+<p>
+Lucie, c’est ainsi, n’est pas très jolie<br />
+Elle possède des formes que personne n’envie<br />
+Si vous la croisez le soir et si Lucie vous suit<br />
+Elle vous entraînera jusqu’au bout de la nuit
+</p>
+
+<p>
+Le chemin de sa maison est pavé de bonnes intentions<br />
+Quand elle vous attend à sa porte et qu’elle vous emporte<br />
+Il faut laisser Lucie faire<br />
+Il faut laisser Lucie faire<br />
+Y’a pas de quoi s’en faire<br />
+Il faut laisser Lucie faire
+</p>
+
+<p>
+Lucie est diplômée de psychologie<br />
+Sur son divin divan les langues se délient<br />
+Cachée dans les détails elle observe les gens<br />
+Détecte leurs failles et leurs mauvais penchants
+</p>
+
+<p>
+Quand elle vous déclare sa flamme vous savez à quoi elle s’attend<br />
+Négociez le prix de votre âme tant qu’il est temps<br />
+Et laissez Lucie faire<br />
+Et laissez Lucie faire<br />
+Y’a pas de quoi s’en faire<br />
+Il faut laisser Lucie faire
+</p>
+
+<p>
+Quand dans un boucan d’enfer, dans un vacarme de tous les diables<br />
+Lucie sort avec son Cerbère et vous invite à sa table<br />
+Il faut laisser Lucie faire<br />
+Il faut laisser Lucie faire<br />
+Y’a pas de quoi s’en faire<br />
+Il faut laisser Lucie faire
+</p>
+
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA / 2023</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
