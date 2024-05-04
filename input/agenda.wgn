@@ -16,6 +16,8 @@ title: Agenda / Concerts
             <div class="row">
                 <div class="col-12 col-lg-9">
 
+                <a name="2024"></a>
+
                 <a name="2023"></a>
 
                     <!-- Single Post Start -->
@@ -515,6 +517,7 @@ title: Agenda / Concerts
                             </div>
                             <div class="widget-content">
                                 <ul>
+                                    <li><a href="#2024">2024</a></li>
                                     <li><a href="#2023">2023</a></li>
                                     <li><a href="#2022">2022</a></li>
                                     <li><a href="#2021">2021</a></li>
