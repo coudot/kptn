@@ -1,4 +1,4 @@
-title: Chanson Française Mais Amusante
+title: Il est libre un max !
 ----
 
     <!-- ##### Hero Area Start ##### -->
@@ -34,7 +34,7 @@ title: Chanson Française Mais Amusante
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
                                 
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Chanson Française Mais Amusante<span>Chanson Française Mais Amusante</span></h2>
+                                <h2 data-animation="fadeInUp" data-delay="300ms">Il est libre un max !<span>Il est libre un max !</span></h2>
                                 
                             </div>
                         </div>
@@ -61,7 +61,7 @@ title: Chanson Française Mais Amusante
                                     <span class="icon-information"></span>
                                 </div>
                                 <div class="text">
-                                    <div class="text-center"><img src="images/stamp_kptn.png" alt="KPTN - Chanson Française Mais Amusante" class="center-block" /></div>
+                                    <div class="text-center"><img src="images/logo_noir.png" alt="KPTN - Il est libre un max !" class="center-block" /></div>
                                     <hr />
                                     <p>KPTN (prononcez "Cap'tain") est auteur/compositeur/interprète/&lt;votre métier préféré ici&gt;. Vous trouverez sur ce site de la chanson française, de la musique avec des inspirations pop, jazz et blues et des textes qu'on ne retrouvera pas dans les manuels scolaires.</p>
                                     <p>Écoutez sans plus attendre ses musiques sur la page <a href="albums.html">des albums</a>.
