@@ -18,6 +18,29 @@ title: Agenda / Concerts
 
                 <a name="2024"></a>
 
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/kptn_banner_2024.png" alt="JDLL">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>25</span>
+                                <span>Mai 2024</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">JDLL</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors des <a href="https://jdll.org" target="_blank">Journées du Logiciel Libre</a> à Lyon.<br />
+                            Début du concert à 17h !
+                            </p>
+                        </div>
+                    </div>
+
                 <a name="2023"></a>
 
                     <!-- Single Post Start -->
