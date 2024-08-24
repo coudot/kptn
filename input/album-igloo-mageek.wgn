@@ -1,0 +1,70 @@
+title: Ma geek
+link: album-igloo-mageek.html
+cover: images/kptn_igloo_cover_640px.png
+og_image: images/kptn_igloo_cover_320px.png
+og_description: Découvrez la chanson "Ma geek"
+logo: images/kptn_igloo_cover_640px.png
+----
+
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<blockquote>
+
+<p>
+Je l’ai croisée un soir au bar<br />
+Avec son mec elle jouait au billard<br />
+J’ai flashé au premier regard<br />
+C’était parti, début de l’histoire
+</p>
+<p>
+Premier niveau, décrocher son numéro<br />
+Si j’y arrive je serai un vrai héros
+</p>
+<p>
+Voilà ma chance, elle est toute seule<br />
+Son copain drague une autre fille au comptoir<br />
+Elle pleure un peu, je la console<br />
+Son mec a l’air d’être un vrai salopard
+</p>
+<p>
+Deuxième niveau, se préparer au combat<br />
+Mais elle me dit : ce gars il est plus fort que toi
+</p>
+<p>
+Cette fille est ma geek, déesse numérique<br />
+Ma pile électrique, ma bombe atomique
+</p>
+<p>
+Elle me raconte que c’est son boss<br />
+Ça débutait comme une belle aventure<br />
+Maintenant elle flippe pour son poste<br />
+Lui aux manettes la vie est vraiment dure
+</p>
+<p>
+Elle ne veut plus être l’icône du bureau<br />
+Elle voudrait que tout ça soit dans le rétro
+</p>
+<p>
+Cette fille est ma geek, puce électronique<br />
+Ma pile électrique, mon pôle magnétique
+</p>
+<p>
+Rendez-vous chez son ex toxique<br />
+Sur ma moto je file à vitesse sonique<br />
+Je lui fends l’arcade avec une brique<br />
+Il tombe KO, c’est heure du générique
+</p>
+<p>
+Dernier niveau, résolution de l’histoire<br />
+Je pique celle qu’il aime, fin du jeu, c’est la victoire !
+</p>
+<p>
+Cette fille est ma geek, déesse numérique<br />
+Ma pile électrique, ma bombe atomique
+</p>
+
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA / 2024</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
