@@ -1,0 +1,46 @@
+{ns}
+{artist: KPTN}
+{composer: Clément OUDOT}
+{lyricist: Clément OUDOT}
+{copyright: CC BY SA}
+{title: Chant d'elle}
+{subtitle: %{artist}}
+{capo: 3}
+{key: G}
+
+{define: G base-fret 3 frets 1 3 3 2 1 1}
+{define: D7baseA base-fret 3 frets x 0 2 3 1 x}
+{define: E7min base-fret 0 frets x 2 X 0 3 3}
+{define: C7M base-fret 3 frets x 1 3 2 3 x}
+{define: D7 base-fret 3 frets x 3 2 3 1 x}
+{define: E7minUp base-fret 7 frets x 1 3 0 2 x}
+{define: C base-fret 3 frets x 1 3 3 3 x}
+{define: C2baseA base-fret 3 frets x 0 3 3 1 x}
+{define: D7var base-fret 3 frets x x 0 3 1 3}
+{define: C base-fret 0 frets x 3 2 0 1 3}
+
+{start_of_grid: Intro}
+| G . . . | D7baseA . . . | E7min . . . | C7M . D7 . |
+| G . . . | D7baseA . . . | E7min . . . | C7M . D7 . |
+{end_of_grid}
+
+{start_of_grid: Couplet}
+| G . . . | D7baseA . . . | E7min . . . | C7M . D7 . |
+| G . . . | D7baseA . . . | E7min . . . | C7M . D7 . |
+| E7minUp . . . | C . C2baseA . | G . . . | D7var . . . |
+| E7minUp . . . | C . C2baseA . | G . . . | D7 . . . |
+{end_of_grid}
+
+{start_of_grid: Refrain}
+| G . . . | D7baseA . . . | G . . . | D7baseA . . . |
+| G . . . | D7baseA . . . | G . . . | D7baseA . . . |
+| G . . . | D7baseA . . . | G . . . | D7baseA . . . |
+| G . . . | D7baseA . . . | G . . . | D7baseA . . . |
+{end_of_grid}
+
+{start_of_grid: Pont}
+| C . . . | C . . . | E7min . . . | E7min . . . |
+| C . . . | C . . . | E7min . . . | E7min . . . |
+| C . . . | C . . . | E7min . . . | E7min . . . |
+| A7 . . . | A7 . . . | D . . . | D . . . |
+{end_of_grid}
