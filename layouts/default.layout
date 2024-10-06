@@ -36,7 +36,7 @@
 
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
 
 </head>
 
@@ -60,7 +60,7 @@
         <div class="container">
             <div class="row d-flex flex-wrap align-items-center">
                 <div class="col-12 col-md-6">
-                    <a href="index.html"><img src="images/logo.png" alt="KPTN"></a>
+                    <a href="index.html"><img src="/images/logo.png" alt="KPTN"></a>
                     <p class="copywrite-text"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> Clément OUDOT | <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons BY SA</a> | Template by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
@@ -69,11 +69,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Clém
                 <div class="col-12 col-md-6">
                     <div class="footer-nav">
                         <ul>
-                            <li><a href="index.html">Accueil</a></li>
-                            <li><a href="albums.html">Albums</a></li>
-                            <li><a href="agenda.html">Agenda</a></li>
-                            <li><a href="soutenir.html">Soutenir</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/index.html">Accueil</a></li>
+                            <li><a href="/albums.html">Albums</a></li>
+                            <li><a href="/agenda.html">Agenda</a></li>
+                            <li><a href="/soutenir.html">Soutenir</a></li>
+                            <li><a href="/contact.html">Contact</a></li>
                         </ul>
                     </div>
                 </div>
@@ -84,14 +84,14 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Clém
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="js/bootstrap/popper.min.js"></script>
+    <script src="/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <script src="/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="js/plugins/plugins.js"></script>
+    <script src="/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="js/active.js"></script>  
+    <script src="/js/active.js"></script>  
   </body>
 </html> 

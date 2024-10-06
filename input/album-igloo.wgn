@@ -1,7 +1,7 @@
 title: Igloo
 og_image: images/kptn_iglooe_cover_320px.png
 og_description: Découvrez l'album Igloo
-album_igloo: file_glob("album-igloo-*.wgn")
+album_igloo: file_glob("albums/igloo/*.wgn")
 ----
     <!-- ##### Breadcumb Area Start ##### -->
     <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(images/kptn_igloo_cover_640px.png);">
@@ -35,9 +35,11 @@ album_igloo: file_glob("album-igloo-*.wgn")
                             <div class="song-name">
                                 <p><!-- tmpl_var name="title" --></p>
                             </div>
+                            <!-- tmpl_if name="download" -->
                             <audio preload="none" controls>
                                 <source src="<!-- tmpl_var name="download" -->">
                             </audio>
+                            <!-- /tmpl_if -->
                         </div>
                     </div>
                 </div>
