@@ -1,0 +1,46 @@
+title: Mon cœur
+link: /albums/igloo/moncoeur.html
+cover: /images/kptn_moncoeur_cover_640px.png
+og_image: /images/kptn_moncoeur_cover_320px.png
+og_description: Découvrez la chanson "Mon cœur"
+logo: /images/kptn_moncoeur_cover_640px.png
+download: /download/igloo/moncoeur.mp3
+----
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<blockquote>
+
+<p>
+J’aurais voulu te dire tout ce que j’ai sur toi<br />
+Mes sentiments profonds, ma rancœur  et ma joie<br />
+Parfois de la peine<br />
+Parfois de la veine<br />
+Te parler de tout ça oui ça me tient à toi
+</p>
+<p>
+Je t’ai dans la peau<br />
+Tatoué dans le dos<br />
+Mon cœur, je te connais par cœur<br />
+Mon cœur, ton goût, ta couleur<br />
+Mon cœur 
+</p>
+<p>
+Dans la circulation roulant comme une machine<br />
+Tu uses tes plaquettes tu chercher l’adrénaline<br />
+Tu accélères<br />
+Dans les artères<br />
+Mais je veux pas que tu t’arrêtes sinon c’est la morphine
+</p>
+<p>
+Je t’ai sous la peau<br />
+Je vis à ton tempo<br />
+Mon cœur, je te connais par cœur<br />
+Mon cœur, ton pouls, ta douleur<br />
+Mon cœur
+</p>
+
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA / 2024</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
