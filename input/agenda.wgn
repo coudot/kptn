@@ -22,6 +22,29 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_osxp_2024.jpg" alt="OSXP 2024">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>5</span>
+                                <span>Décembre 2024</span>
+                            </div>
+                        </div>
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">JDLL</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors de <a href="https://www.opensource-experience.com/" target="_blank">Open Source Experience</a> à Paris.
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
                             <img src="images/kptn_banner_2024.png" alt="JDLL">
                             <!-- Post Date -->
                             <div class="post-date">
