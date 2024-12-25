@@ -32,7 +32,6 @@
                                     <li><a href="/contact.html">Contact</a></li>
                                     <li><a href="https://framapiaf.org/@kptnfrance" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
                                     <li><a href="https://www.facebook.com/kptnfrance/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="https://www.twitter.com/kptnfrance/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                     <li><a href="https://www.youtube.com/channel/UCJ6vosjZpnNLICXz82pIP-A" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>

@@ -127,7 +127,6 @@ title: Il est libre un max !
                     <div class="oneMusic-buttons-area mb-100">
                         <a href="https://framapiaf.org/@kptnfrance" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-mastodon"></i> Mastodon <i class="fa fa-angle-double-right"></i></a>
                         <a href="https://www.facebook.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-facebook"></i> Facebook <i class="fa fa-angle-double-right"></i></a>
-                        <a href="https://www.twitter.com/kptnfrance/" class="btn oneMusic-btn m-2" target="_blank"><i class="fa fa-twitter"></i> Twitter <i class="fa fa-angle-double-right"></i></a>
                     </div> 
 
                 </div>
