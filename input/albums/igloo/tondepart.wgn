@@ -1,0 +1,37 @@
+title: Ton départ
+link: /albums/igloo/tondepart.html
+cover: /images/kptn_tondepart_cover_640px.png
+og_image: /images/kptn_tondepart_cover_320px.png
+og_description: Découvrez la chanson "Ton départ"
+logo: /images/kptn_tondepart_cover_640px.png
+----
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<blockquote>
+<p>
+Tout a changé depuis que tu es partie<br />
+Les carreaux sont cassés et des cendres au tapis<br />
+Le ciel est gris et mes yeux aussi<br />
+Les oiseaux ne chantent plus et la radio s’est tue
+</p>
+<p>
+Mais je continuerai à t’attendre<br />
+Et je finirai par te réentendre<br />
+Après ton départ
+</p>
+<p>
+L’hiver est maussade, il n’y rien sur la table<br />
+Que du pain rassis et un vieux gri-gri<br />
+Je suis seul et je n’attends que toi<br />
+Assis dans mon fauteuil en me mordant les doigts
+</p>
+<p>
+Mais je continuerai à t’attendre<br />
+Et je finirai par te réentendre<br />
+Après ton départ
+</p>
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA / 1993</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
