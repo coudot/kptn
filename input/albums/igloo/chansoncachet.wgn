@@ -1,0 +1,54 @@
+title: Chanson cachet
+link: /albums/igloo/chansoncachet.html
+cover: /images/kptn_chansoncachet_cover_640px.png
+og_image: /images/kptn_chansoncachet_cover_320px.png
+og_description: Découvrez la chanson "Chant d'elle"
+logo: /images/kptn_chansoncachet_cover_640px.png
+----
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<blockquote>
+<p>
+C’est la chanson cachet<br />
+Un dernier vers à avaler<br />
+C’est la chanson cachet<br />
+À prendre avant de se coucher
+</p>
+<p>
+Si t’es pas bien dans ton histoire<br />
+Que t’as du mal à dormir le soir<br />
+Ferme les yeux, laisse toi aller<br />
+L’ami calmant va te bercer
+</p>
+<p>
+C’est la chanson cachet<br />
+Une pilule fa si la do ré<br />
+C’est la chanson cachet<br />
+À prendre avant de se coucher
+</p>
+<p>
+Soigne ce qui te nuit le jour<br />
+Écoute cette mélodie d’amour<br />
+Panse les blessures de tes amants<br />
+Fredonne ce médicament
+</p>
+<p>
+C’est la chanson cachet<br />
+Un remède à ta portée<br />
+C’est la chanson cachet<br />
+À prendre avant de se coucher
+</p>
+<p>
+On va tous mourir sans savoir<br />
+Si c’est tout blanc, si c’est tout noir<br />
+Qu’on ait raison ou qu’on ait tort<br />
+Y’a pas d’avis après la mort
+</p>
+<p>
+C’est la chanson cachet...
+</p>
+<footer><i class="fa fa-copyright"></i> Clément OUDOT / Licence CC-BY-SA / 2024</footer>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
