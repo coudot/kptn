@@ -22,7 +22,32 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <img src="images/kptn_banner_2024.png" alt="JDLL 2025">
+                            <img src="images/photo_kptn_concert_jardin_ouvert_2025.jpg" alt="Festival Jardins Ouverts 2025">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>28</span>
+                                <span>Juin 2025</span>
+                            </div>
+                        </div>
+
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Festival Jardins Ouverts</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors du <a href="https://www.miribel.fr/evenement/festival-des-jardins-ouverts-cesam/" target="_blank">festival Jardins Ouverts</a> à Miribel à partir de 16h !<br />
+                            Il sera suivi d'un spectacle d'improvisation théâtrale par <a href="https://www.improcite.com" target="_blank">Improcité</a>.<br />
+                            Voir l'événement sur <a href="https://www.facebook.com/events/1735287867345713" target="_blank">Facebook</a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_jdll_2025.jpg" alt="JDLL 2025">
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>25</span>
