@@ -5,6 +5,8 @@ og_image: /images/kptn_exile_cover_320px.png
 og_description: Découvrez la chanson "Exilé"
 logo: /images/kptn_exile_cover_640px.png
 download: /download/coeurk/exile.mp3
+progress: 30
+progress-class: danger
 ----
 
 <!-- tmpl_include name="chanson_head.inc"-->

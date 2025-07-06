@@ -5,6 +5,8 @@ og_image: /images/kptn_lucie_cover_320px.png
 og_description: Découvrez la chanson "Lucie"
 logo: /images/kptn_lucie_cover_640px.png
 download: /download/coeurk/lucie.mp3
+progress: 70
+progress-class: info
 ----
 
 

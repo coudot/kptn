@@ -7,6 +7,8 @@ logo: /images/kptn_taratata_cover_640px.png
 download: /download/coeurk/taratata.mp3
 chordpro: /chordpro/kptn_taratata.cho
 partition: /partitions/kptn_taratata.pdf
+progress: 70
+progress-class: info
 ----
 
 <!-- tmpl_include name="chanson_head.inc"-->

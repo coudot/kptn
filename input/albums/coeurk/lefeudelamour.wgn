@@ -5,6 +5,8 @@ og_image: /images/kptn_lefeudelamour_cover_320px.png
 og_description: Découvrez la chanson "Le feu de l'amour"
 logo: /images/kptn_lefeudelamour_cover_640px.png
 download: /download/coeurk/lefeudelamour.mp3
+progress: 30
+progress-class: danger
 ----
 
 

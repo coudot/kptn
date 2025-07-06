@@ -5,6 +5,8 @@ og_image: /images/kptn_toutletemps_cover_320px.png
 og_description: Découvrez la chanson "Tout le temps"
 logo: /images/kptn_toutletemps_cover_640px.png
 download: /download/coeurk/toutletemps.mp3
+progress: 30
+progress-class: danger
 ----
 
 

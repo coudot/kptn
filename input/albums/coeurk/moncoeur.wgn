@@ -5,6 +5,8 @@ og_image: /images/kptn_moncoeur_cover_320px.png
 og_description: Découvrez la chanson "Mon cœur"
 logo: /images/kptn_moncoeur_cover_640px.png
 download: /download/coeurk/moncoeur.mp3
+progress: 70
+progress-class: info
 ----
 
 <!-- tmpl_include name="chanson_head.inc"-->

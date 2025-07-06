@@ -5,6 +5,8 @@ og_image: /images/kptn_chansoncachet_cover_320px.png
 og_description: Découvrez la chanson "Chanson cachet"
 logo: /images/kptn_chansoncachet_cover_640px.png
 download: /download/coeurk/chansoncachet.mp3
+progress: 70
+progress-class: info
 ----
 
 <!-- tmpl_include name="chanson_head.inc"-->

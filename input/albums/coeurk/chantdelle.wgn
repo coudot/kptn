@@ -7,6 +7,8 @@ logo: /images/kptn_chantdelle_cover_640px.png
 download: /download/coeurk/chantdelle.mp3
 chordpro: /chordpro/kptn_chantdelle.cho
 partition: /partitions/kptn_chantdelle.pdf
+progress: 30
+progress-class: danger
 ----
 
 <!-- tmpl_include name="chanson_head.inc"-->
