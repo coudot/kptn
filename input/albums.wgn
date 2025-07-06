@@ -11,7 +11,35 @@ album_flammes: file_glob("album-flammes-*.wgn")
 
     
     <!-- ##### Song Area Start ##### -->
-    <section class="mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
+    <section class="mt-30 bg-img bg-fixed">
+
+
+    <a name="coeurk"></a>
+    <div class="one-music-songs-area mt-70 mb-30">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail-160">
+                            <a href="album-coeurk.html">
+                            <img src="images/workinprogress_320px.jpg" alt="En coeur de construction">
+                            </a>
+                        </div>
+                    
+                    <div class="elements-title">
+                        <h2>Bientôt... <i class="fa fa-heart"></i> CœurK</h2>
+                        <p><i class="fa fa-info-circle"></i> Nouvel album en cours d'enregistrement. Un voyage intime à travers les étoiles et l'espace.</p>
+                        <a href="album-coeurk.html" class="btn oneMusic-btn m-2">Écouter les maquettes <i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
     <a name="flammes"></a>
     <div class="one-music-songs-area mt-70 mb-30">
 
@@ -28,7 +56,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
                     
                     <div class="elements-title">
                         <h2>2021 <i class="fa fa-fire"></i> Flammes</h2>
-                        <p><i class="fa fa-info-circle"></i> Premier album officiel</p>
+                        <p><i class="fa fa-info-circle"></i> Premier album officiel sorti sur toutes les plates-formes.<br />Il contient des chansons écrites sur plus de 20 années.</p>
                         <a href="album-flammes.html" class="btn oneMusic-btn m-2">Découvrir l'album <i class="fa fa-angle-double-right"></i></a>
                         <a href="cd-kptn-flammes.html" class="btn oneMusic-btn m-2">Acheter le CD <i class="fa fa-angle-double-right"></i></a>
                     </div>
