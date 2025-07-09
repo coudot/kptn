@@ -48,7 +48,7 @@ songs: file_glob("albums/coeurk/*.wgn")
 
         <!-- tmpl_loop name="songs" -->
                 <!-- Single Song Area -->
-                <div class="col-6">
+                <div class="col-md-6">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
                             <a href="<!-- tmpl_var name="link" -->" title="Voir les paroles de <!-- tmpl_var name="title" -->"><img src="<!-- tmpl_var name="og_image" -->" alt="<!-- tmpl_var name="title" -->"></a>
