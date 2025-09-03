@@ -22,6 +22,31 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_quartier_20250928.png" alt="Fête de quartier Villette Paul Bert">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>28</span>
+                                <span>Septembre 2025</span>
+                            </div>
+                        </div>
+
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Fête de quartier</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors de la fête de quartier Villette Paul Bert<br />
+                            Voir l'événement sur <a href="https://fb.me/e/4J13ghBZ3" target="_blank">Facebook</a>
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
                             <img src="images/photo_kptn_concert_jardin_ouvert_2025.jpg" alt="Festival Jardins Ouverts 2025">
                             <!-- Post Date -->
                             <div class="post-date">
