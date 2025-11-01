@@ -22,6 +22,30 @@ title: Agenda / Concerts
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
+                            <img src="images/photo_kptn_concert_campusdulibre_20251115.jpg" alt="Campus du libre">
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>15</span>
+                                <span>Novembre 2025</span>
+                            </div>
+                        </div>
+
+
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">Campus du libre</a>
+                            <!-- Post Excerpt -->
+                            <p>Concert lors du <a href="https://www.campus-du-libre.org" target="_blank">Campus du Libre</a> 2025, de 12h30 à 13h30 !<br />
+                            Voir l'événement sur <a href="https://fb.me/e/3RJV88VpN" target="_blank">Facebook</a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
                             <img src="images/photo_kptn_concert_quartier_20250928.png" alt="Fête de quartier Villette Paul Bert">
                             <!-- Post Date -->
                             <div class="post-date">
