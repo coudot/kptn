@@ -5,8 +5,8 @@ og_image: /images/kptn_mageek_cover_320px.png
 og_description: Découvrez la chanson "Ma geek"
 logo: /images/kptn_mageek_cover_640px.png
 download: /download/coeurk/mageek.mp3
-progress: 50
-progress-class: warning
+progress: 70
+progress-class: info
 ----
 
 
