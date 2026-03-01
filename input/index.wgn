@@ -34,7 +34,7 @@ title: Il est libre un max !
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
                                 
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Il est libre un max !<span>Il est libre un max !</span></h2>
+                                <h2 data-animation="fadeInUp" data-delay="300ms">Il est libre un max&nbsp;!<span>Il est libre un max&nbsp;!</span></h2>
                                 
                             </div>
                         </div>
