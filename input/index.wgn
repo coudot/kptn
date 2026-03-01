@@ -79,10 +79,7 @@ title: Il est libre un max !
                                 <div class="text">
                                     <h5>Art Libre</h5>
                                     <p>Musique et paroles sont libres, sous licence CC-BY-SA, ce qui signifie que vous pouvez télécharger, partager, même modifier librement ces chansons. Vous devez simplement citer l'auteur et partager dans les mêmes conditions</p>
-                                    <p>Si vous le souhaitez, vous pouvez donner de l'argent via Tipee.</p>
-                                    <a href="https://fr.tipeee.com/kptn" class="tipeee-project-small">Soutenez KPTN sur Tipeee</a>
-                                    <script async src="https://plugin.tipeee.com/widget.js" charset="utf-8"></script>
-                                    <hr />
+                                    <p>Vous pouvez <a href="soutenir.html">contribuer au projet KPTN</a> en aidant au financement des albums ou en partageant ses chansons.</p>
                                     <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.</p>
                                 </div>
                             </div>
@@ -97,10 +94,10 @@ title: Il est libre un max !
     
     <section class="featured-artist-area section-padding-100 bg-img bg-overlay bg-fixed" style="background-image: url(images/guitar_black.png);">
         <div class="container">
-            <div class="row align-items-end">
+            <div class="row">
                 <div class="col-12 col-md-5 col-lg-4">
                     <div class="featured-artist-thumb">
-                        <img src="images/photo_kptn_concert_poss_20181206.jpg" alt="KPTN concert POSS">
+                        <img src="images/Opensource_Experience_2025_20251211-134409_OHE!_William_JEZEQUEL_cropped.jpeg" alt="KPTN lors de OSXP 2025">
                     </div>
                 </div>
                 <div class="col-12 col-md-7 col-lg-8">
@@ -109,8 +106,40 @@ title: Il est libre un max !
                         <div class="section-heading white text-left mb-30">
                             <h2>Qui est KPTN ?</h2>
                         </div>
-                        <p>Plongé très tôt dans la musique, avec l'apprentissage du violon et de la contrebasse, KPTN suit le courant des études classiques puis jette l'ancre après quelques années pour se consacrer à la guitare et à ses premières compositions. Il mène sa barque seul puis rencontre rapidement d'autres camarades avec qui il vogue quelques temps : le groupe folk <a href="http://www.arrierepays.fr/" style="color:white;">Arrière Pays</a>, reprise de Starmania et création du groupe <a href="http://thepougnes.oodo.net/"style="color:white;">The Pougnes</a> lors de ses études. Ce n'est que bien plus tard, lorsque les premières touches blanches pointent sur sa barbe, qu'une nouvelle aventure musicale démarre avec l'enregistrement d'un album studio avec l'aide de Cooc et de Stan. Il garde quelques activités annexes, comme le <a href="albums.html#ukubebe" style="color:white;">ukulélé</a>, l'improvisation théâtrale avec <a href="https://www.improcite.com" style="color:white;">Improcité</a>, son rôle d'orc dans la série <a href="http://www.donjonlegacy.com/" style="color:white;">DonJon Legacy</a> et le podcast <a href="https://podcast.ausha.co/les-amis-causent" style="color:white;">Les Amis Causent</a>.</p>
+                        <p class="text-justify">
+Plongé très tôt dans la musique, avec l'apprentissage du violon et de la contrebasse, KPTN suit le courant des études classiques puis jette l'encre après quelques années pour se consacrer à la guitare et à ses premiers textes et compositions.
+Il mène sa barque seul puis rencontre rapidement d'autres camarades avec qui il vogue quelques temps&nbsp;: le groupe folk <a href="http://www.arrierepays.fr/" style="color:white;" target="_blank">Arrière Pays</a> à Reims, puis il crée le groupe <i>The Pougnes</i> lors de ses études à Evry.<br />
+Ce n'est que bien plus tard, lorsque les premières touches blanches pointent sur sa barbe, qu'une nouvelle aventure musicale démarre avec l'enregistrement de son premier album studio (<a href="album-flammes.html" style="color:white;">Flammes</a>, en 2020) avec l'aide de <a href="https://open.spotify.com/artist/4qnekGVebux3pRe4k6kY52?si=nhzQLQAJRtecIwrlxRErLw" style="color:white;" target="_blank">Cooc</a> et de <a href="https://www.instagram.com/stan.muzic/" style="color:white;" target="_blank">Stan</a>.<br />
+KPTN est présent dans de nombreux événements du libre (Open Source Expérience, JDLL, Campus du Libre, AlpOSS...) où il vient chanter ses chansons, sous l'oeil et les oreilles bienveillantes de toute la communauté (voir la liste des concerts sur la page <a href="agenda.html"  style="color:white;">agenda</a>).<br />
+En 2025 démarre l'enregistrement de son second album, nommé <a href="album-coeurk.html" style="color:white;">CoeurK</a>. La chanson Lucie est choisie pour l'habillage sonore du podcast <a href="https://www.projets-libres.org/projets-libres-change-habillage-sonore-kptn/" style="color:white;" target="_blank">Projets Libres</a>.<br />
+Il a aussi quelques activités annexes, comme le <a href="albums.html#ukubebe" style="color:white;">ukulélé</a>, l'improvisation théâtrale avec <a href="https://www.improcite.com" style="color:white;" target="_blank">Improcité</a>, son rôle d'orc dans la série <a href="http://www.donjonlegacy.com/" style="color:white;" target="_blank">DonJon Legacy</a> et le podcast <a href="https://podcast.ausha.co/les-amis-causent" style="color:white;" target="_blank">Les Amis Causent</a>.</p>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="index-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+
+                    <div class="elements-title mb-70">
+                        <h2>Un artiste en développement</h2>
+                    </div>
+
+                            <div class="single-service-area d-flex flex-wrap mb-100">
+                                <div class="icon">
+                                    <span class="icon-settings"></span>
+                                </div>
+                                <div class="text">
+                                Ce site est également libre et ses sources sont disponibles sur <a href="https://github.com/coudot/kptn/" target="_blank">Github</a>.<br />
+                                En particulier vous pouvez suivre les différentes phases d'enregistrement de l'album, car toutes les versions studio sont publiées&nbsp;!
+                                </div>
+
+                            </div>
+                                <img src="images/github_commits_20260301.png" alt="Exemple de commits faits sur le git du site" />
+
                 </div>
             </div>
         </div>
