@@ -89,3 +89,4 @@ D'une dernière danse<br />
 </blockquote>
 
 <!-- tmpl_include name="chanson_foot.inc"-->
+<!-- tmpl_include name="retour_album_flammes.inc"-->

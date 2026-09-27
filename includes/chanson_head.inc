@@ -10,7 +10,7 @@
     </section>
     <!-- ##### Breadcumb Area End ##### -->
 
-    <section class="section-padding-100-0 mb-70 mt-30 bg-img bg-fixed" style="background-image: url(images/guitar_white.png);">
+    <section class="section-padding-100-0 mb-70 mt-30 bg-img bg-fixed" style="background-image: url(/images/guitar_white.png);">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6">
