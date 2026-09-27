@@ -27,15 +27,15 @@ title: Il est libre un max !
             <!-- Single Hero Slide -->
             <div class="single-hero-slide d-flex align-items-center justify-content-center">
                 <!-- Slide Img -->
-                <div class="slide-img bg-img" style="background-image: url(images/photo_kptn_concert_cordee_20180111.png);"></div>
+                <div class="slide-img bg-img" style="background-image: url(images/neonk.jpg);"></div>
                 <!-- Slide Content -->
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
-                                
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Il est libre un max&nbsp;!<span>Il est libre un max&nbsp;!</span></h2>
-                                
+                                <h6 data-animation="fadeInUp" data-delay="100ms">Prochain album</h6>
+                                <h2 data-animation="fadeInUp" data-delay="300ms">CŒURK<span>CŒURK</span></h2>
+                                <a data-animation="fadeInUp" data-delay="500ms" href="album-coeurk.html" class="btn oneMusic-btn mt-50">Écouter les maquettes<i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
