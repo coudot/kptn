@@ -92,6 +92,30 @@ album_flammes: file_glob("album-flammes-*.wgn")
         </div>
     </div>
 
+    <a name="adhoc"></a>
+    <div class="one-music-songs-area mb-30">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail-160">
+                            <a href="chansons-adhoc.html">
+                            <img src="images/kptn_adhoc_cover_320px.jpg" alt="Chansons ad hoc">
+                            </a>
+                        </div>
+
+                    <div class="elements-title">
+                        <h2><i class="fa fa-calendar"></i> Ad Hoc</h2>
+                        <p><i class="fa fa-info-circle"></i> Des chansons créées pour des occasions particulières</p>
+                        <a href="chansons-adhoc.html" class="btn oneMusic-btn m-2">Découvrir les chansons <i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
     <a name="igloo"></a>
     <div class="one-music-songs-area mb-30">
         <div class="container">

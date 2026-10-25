@@ -1,0 +1,47 @@
+title: La chanson de l'APRIL
+link: /albums/adhoc/01_lachansondelapril.html
+cover: /images/kptn_lachansondelapril_cover_640px.png
+og_image: /images/kptn_lachansondelapril_cover_320px.png
+og_description: Découvrez la chanson de l'April"
+logo: /images/kptn_lachansondelapril_cover_640px.png
+download: /download/adhoc/lachansondelapril.mp3
+----
+
+<!-- tmpl_include name="chanson_head.inc"-->
+
+<p>Chanson écrite pour les 30 ans de l'association <a href="https://www.april.org" target="_blank">APRIL</a></p>
+
+<blockquote>
+<p>Tu démarres ton ordinateur et tu pleures<br />
+Pour toi l'informatique c'est l'horreur<br />
+C'est l'exploitation par le système<br />
+Mais on a la solution au problème</p>
+
+<p>Tu peux mettre fin au bail du propriétaire<br />
+GNU/Linux sur nos bécanes c'est d'enfer !<br />
+Le code communautaire, ce n'est plus un mystère<br />
+Ça sauve même le PC de ta grand-mère</p>
+
+<p>Pour défendre le logiciel libre, c'est facile<br />
+Tu peux déjà adhérer à l'APRIL<<br />
+Bienvenue à toi quelque soit ton profil<br />
+Un peu comme dans une grande famille<br />
+C'est l'APRIL</p>
+
+<p>S'il n'y a qu'avec Apple que l'on t'appelle<br />
+C'est qu'il y a un souci sur ton tel<br />
+S'il n'y qu'avec Windows que tu excelles<br />
+Évite l'overdose, rejoins les rebelles</p>
+
+<p>Refrain</p>
+
+<p>On a notre podcast à la radio<br />
+On parcourt la France de bas en haut<br />
+Contre les GAFAM on se serre les coudes<br />
+Et on stocke nos données sur notre cloud</p>
+
+<p>Refrain</p>
+</blockquote>
+
+<!-- tmpl_include name="chanson_foot.inc"-->
+<!-- tmpl_include name="retour_chansonsadhoc.inc"-->
