@@ -116,6 +116,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
             </div>
         </div>
     </div>
+<!--
     <a name="igloo"></a>
     <div class="one-music-songs-area mb-30">
         <div class="container">
@@ -140,7 +141,7 @@ album_flammes: file_glob("album-flammes-*.wgn")
             </div>
         </div>
     </div>
-
+-->
     <a name="caverne"></a>    
     <div class="one-music-songs-area mb-30">
         <div class="container">
